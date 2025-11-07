@@ -3,12 +3,23 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Yongjian Huang - Resume</title>
+  <title>Yongjian Huang - homepage</title>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <style>
     /* Base Styles */
     body { margin: 0; font-family: system-ui, sans-serif; line-height: 1.6; color: #000; }
     .container { max-width: 900px; margin: 0 auto; padding: 20px; }
+    .container2 { display: flex;  }
+    .column {flex: 5; /* 每个栏目平均分配宽度 */}
+    .column2 {flex: 2; /* 每个栏目平均分配宽度 */}
+    .circle-image {
+      width: 200px;
+      height: 200px;
+      border-radius: 50%; /* 这将使图片变成圆形 */
+      object-fit: cover; /* 确保图片覆盖整个容器，避免变形 */
+      position: relative; /* 设置定位，以便使用z-index */
+      z-index: 10; /* 设置堆叠顺序，数字越大越在上层 */
+    }
     a { color: #1a73e8; text-decoration: none; }
     a:hover { text-decoration: underline; }
     code { font-family: Consolas, monospace; background: #f4f4f4; padding: 0 4px; }
@@ -122,13 +133,19 @@
 <div class="container">
   <!-- Header Section: Name and Contact Info -->
   <header>
-    <h1>Yongjian Huang <span lang="zh">（黄永健）</span></h1>
-    <p class="base-info">
-      2002.01.27 • Guangdong, China<br>
-      <strong>Email:</strong> <a href="mailto:hongwu@shu.edu.cn">hongwu@shu.edu.cn</a> / <a href="mailto:hongwu2023@163.com">hongwu2023@163.com</a><br>
-      <strong>Homepage:</strong> <a href="https://hongwu122.github.io">hongwu122.github.io</a>
-    </p>
-
+    <div class="container2">
+      <div class="column">
+        <h1>Yongjian Huang <span lang="zh">（黄永健）</span></h1>
+        <p class="base-info">
+          2002.01.27 • Guangdong, China<br>
+          <strong>Email:</strong> <a href="mailto:hongwu@shu.edu.cn">hongwu@shu.edu.cn</a> / <a href="mailto:hongwu2023@163.com">hongwu2023@163.com</a><br>
+          <strong>Homepage:</strong> <a href="https://hongwu122.github.io">hongwu122.github.io</a>
+        </p>
+      </div>
+      <div class="column2">
+        <img alt="Yongjian's profile picture" class="circle-image" src="images/id.jpg" height="170" width="170">
+      </div>
+      </div>
     <p>
       <strong>Bio.</strong>
       A young, motivated, and self-driven researcher seeking opportunities to contribute to cutting-edge research in operations research and optimization,
@@ -139,9 +156,9 @@
       Previously, I obtained my Bachelor’s degree from the University of South China advised by Prof. Xie.
     </p>
 
-    <!-- Downloadable Resume and Profile Buttons -->
+    <!-- Downloadable CV and Profile Buttons -->
     <div class="btn-group">
-      <a class="btn" href="docs/RESUME%20of%20Yongjian%202025.09.pdf" target="_blank">Download Resume (PDF)</a>
+      <a class="btn" href="docs/CV%20of%20Yongjian.pdf" target="_blank">Download CV (PDF)</a>
       <a class="scholar-btn" href="https://scholar.google.com/citations?hl=zh-CN&user=YAmFYBcAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
 <!--      <a class="orcid-btn" href="https://orcid.org/0000-0002-1601-9887" target="_blank" rel="noopener">ORCID</a>-->
 <!--      <a class="researchgate-btn" href="https://www.researchgate.net/profile/Yongjian-Huang-4" target="_blank" rel="noopener">ResearchGate</a>-->
