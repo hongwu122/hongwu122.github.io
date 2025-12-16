@@ -57,6 +57,66 @@
     .researchgate-btn:hover { background: #E6E6E6; }
     /* Muted Text 灰色文本 */
     .text-muted { color: #666; }
+
+    /* ===== Publications Abstract Toggle ===== */
+    .pub-abstract { /*论文摘要部分*/
+      margin: 0.4em 0 1em 2em;
+      font-size: 0.92em;
+      color: #777;
+      line-height: 1.6;
+    }
+    /*.pub-text.collapsed { !*论文摘要需clamp的文本*!*/
+    /*  display: -webkit-box;*/
+    /*  -webkit-line-clamp: 1;*/
+    /*  -webkit-box-orient: vertical;*/
+    /*  overflow: hidden;*/
+    /*}*/
+    .pub-text { /* ===== Abstract Fog Box ===== */
+      padding: 0.55em 0.7em;
+      background: rgba(240, 240, 240, 0.55);  /* 雾化浅灰 */
+      border: 1px solid rgba(200, 200, 200, 0.45);
+      border-radius: 6px;
+      backdrop-filter: blur(3px);            /* 磨砂感（现代浏览器） */
+      -webkit-backdrop-filter: blur(3px);
+      line-height: 1.55;
+    }
+    /* 折叠状态：保持雾化框，极度紧凑*/
+    .pub-text.collapsed {
+    padding: 0.28em 0.6em;      /* 减小上下 padding */
+    line-height: 1.6;         /* 收紧行高 */
+    max-height: 1.4em;         /* 硬限制高度，防露头 */
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    background: rgba(245, 245, 245, 0.45);
+    border-color: rgba(210, 210, 210, 0.4);
+    }
+    .pub-actions { /* 操作行 More & full text */
+      display: flex;
+      gap: 0.6em;
+      align-items: center;
+      margin-top: 0.2em;
+      font-size: 0.88em;
+    }
+    .pub-toggle { /* 操作 More */
+      color: #1a73e8;
+      cursor: pointer;
+    }
+    .pub-toggle:hover {
+      text-decoration: underline;
+    }
+    .pub-sep { /* a point · between More and Full text */
+      color: #aaa;
+    }
+    .pub-pdf { /* 操作 Full text */
+      color: #1a73e8;
+      border-bottom: 1px dashed #aaa;
+    }
+    .pub-pdf:hover {
+      color: #1a73e8;
+      border-bottom-color: #1a73e8;
+    }
     /* Skills list multi-column 双栏布局 */
     .skills-list { columns: 2; -webkit-columns: 2; -moz-columns: 2; column-gap: 2em; }
     /* Project sections */
@@ -265,12 +325,87 @@
     <h2>Publications</h2>
     <ol>
       <li>Xie, T.*, <strong>Huang, Y. J.*</strong>, &amp; Chen, W. F. <strong>(2025)</strong>. Multi-dimensional assignment model and its algorithm for multi-features decision-making problems. <strong><em><a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" rel="noopener">Expert Systems with Applications</a></em></strong>, 270, 126369. DOI: <a href="https://doi.org/10.1016/j.eswa.2024.126369" target="_blank" rel="noopener">10.1016/j.eswa.2024.126369</a> <span style="font-weight:bold; color:#005bd0;">(Q1 TOP SCI, IF:7.5)</span> </li>
+        <div class="pub-abstract">
+          <div class="pub-text collapsed">
+          This paper proposes a multi-dimensional assignment model (MAM) to address complex decision-making problems involving multi-agents, multi-stages, multi-resources, and multi-constraints, which can effectively describe assignment scenarios ranging from 2D to N-dimensional.
+          To solve MAM, a dimensionality-reducible "Virtual Matching Algorithm" (VMA) is developed by integrating ideas from Roulette-wheel selection, Particle Swarm Optimization (PSO), and Genetic Algorithm (GA), with an improved version (IVMA) for problems with massive duplicate data.
+          Through real cases of organizational assessment and guava production, VMA/IVMA outperforms traditional algorithms like PSO, Bi-PSO, GA, and GA-PSO in both solution quality and computational speed, verifying MAM’s universality and effectiveness.
+          </div>
+          <span class="pub-toggle">More</span>
+          <span class="pub-sep">·</span>
+            <a class="pub-pdf" href="docs/Publications/2025-04 ESWA Multi-dimensional assignment model and its algorithm for multi-features decision-making problems.pdf" target="_blank">
+              📄 Full text (PDF)
+            </a>
+        </div>
       <li><strong>Huang, Y. J.</strong>, Huo, S.*, &amp; Dong, Y. <strong>(2025)</strong>. Exploring the role of AI in smart grids: a 20-year bibliometric-based overview. <strong><em><a href="https://www.tandfonline.com/journals/ggen20" target="_blank" rel="noopener">International Journal of General Systems</a></em></strong>, 1–32. DOI: <a href="https://doi.org/10.1080/03081079.2025.2547187" target="_blank" rel="noopener">10.1080/03081079.2025.2547187</a> <span style="font-weight:bold; color:#005bd0;">(Q2 SCI)</span> </li>
+        <div class="pub-abstract">
+          <div class="pub-text collapsed">
+          This study presents a 20-year (2005–2024) bibliometric and qualitative analysis of 1,272 Web of Science publications to explore AI’s evolving role in smart grids, covering macro trends (publication growth, key institutions/authors) and micro thematic patterns.
+          It identifies eight core research clusters (e.g., load management, cybersecurity, grid optimization) and applies a Research Potential Evaluation model to assess the maturity and emerging value of these clusters.
+          The findings offer a comprehensive framework for understanding the current state of AI-smart grid integration and guide future research directions, especially in high-potential areas like AI-driven load forecasting and predictive maintenance.
+          </div>
+          <span class="pub-toggle">More</span>
+          <span class="pub-sep">·</span>
+            <a class="pub-pdf" href="docs/Publications/2025-08 IJGS Exploring the role of AI in smart grids a 20-year bibliometric-based overview.pdf" target="_blank">
+              📄 Full text (PDF)
+            </a>
+        </div>
       <li><strong>Huang, Y. J.</strong>, Qader, M. R., Zhou, J.*, &amp; Zhang, X. <strong>(2025)</strong>. Prediction and path planning framework of X city’s carbon emissions based on long short-term memory network model. <strong><em><a href="https://www.pjoes.com/" target="_blank" rel="noopener">Polish Journal of Environmental Studies</a></em></strong> (Online First). DOI: <a href="https://doi.org/10.15244/pjoes/199609" target="_blank" rel="noopener">10.15244/pjoes/199609</a> <span style="font-weight:bold; color:#005bd0;"></span> </li>
+        <div class="pub-abstract">
+          <div class="pub-text collapsed">
+          This study develops a carbon emission prediction framework for City X by integrating Kaya-LMDI models with LSTM, using logistic regression, ARIMA, and least squares to forecast population, GDP, and energy consumption.
+          It designs three scenarios (natural, baseline, ambitious) to simulate carbon emission trends, supporting China’s 2030 carbon peak and 2060 carbon neutrality goals.
+          Tailored policy recommendations on industrial upgrading, energy decarbonization, and electrification are provided for local low-carbon development.
+          </div>
+          <span class="pub-toggle">More</span>
+          <span class="pub-sep">·</span>
+            <a class="pub-pdf" href="docs/Publications/2024-12 PJOES Prediction and Path Planning Framework of X City’s Carbon Emissions Based on the Long Short-Term Memory Network Model.pdf" target="_blank">
+              📄 Full text (PDF)
+            </a>
+        </div>
       <li>Xie, T., Dai, G. Y., Chen, W. F., Yang, C. P., <strong>Huang, Y. J.</strong>, &amp; Wei, Y. Y.* <strong>(2025)</strong>. Pandemic triggered emergency supply chain management innovations: a scientometric analysis based on bibliometrics and dynamic topic models. <strong><em><a href="https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness" target="_blank" rel="noopener">Disaster Medicine and Public Health Preparedness</a></em></strong>, 19, e88. DOI: <a href="https://doi.org/10.1017/dmp.2025.88" target="_blank" rel="noopener">10.1017/dmp.2025.88</a> <span style="font-weight:bold; color:#005bd0;"></span> </li>
+        <div class="pub-abstract">
+          <div class="pub-text collapsed">
+          This study conducts a scientometric analysis of pandemic-triggered emergency supply chain management innovations, using bibliometrics, Dynamic Topic Models (DTM), and regression analysis on 729 WOS-core articles.
+          It identifies the knowledge base, clusters 12 research hotspots (into industry, management, and technological innovations), and tracks topic evolution across pre-epidemic, epidemic stabilization, and post-epidemic stages.
+          The research predicts future trends focusing on green/sustainable industry innovation, efficient management, and intelligent technological integration, providing a replicable framework for academics and policymakers.
+          </div>
+          <span class="pub-toggle">More</span>
+          <span class="pub-sep">·</span>
+            <a class="pub-pdf" href="docs/Publications/2025-03 DMPHP Pandemic Triggered Emergency Supply Chain Management Innovations A Scientometric Analysis Based on Bibliometrics and Dynamic Topic Models.pdf" target="_blank">
+              📄 Full text (PDF)
+            </a>
+        </div>
+      <li><strong>Huang, Y. J.(Presenter)</strong>, & Huo, S. C.<strong>(2025)</strong>. Urban mobility demand forecasting with a hybrid attention-XGBoost model: A case study on NYC taxi data. Accepted for publication in the Proceedings of the 9th IET Smart Cities Symposium (IET SCS 2025), Bahrain.</li>
+        <div class="pub-abstract">
+          <div class="pub-text collapsed">
+          This paper proposes a hybrid Attention-XGBoost model—integrating a mutual information-based attention mechanism for feature weighting with the XGBoost gradient-boosted tree model—to predict hourly taxi demand in New York City (NYC).
+          Using NYC yellow taxi trip data (Jan 2024–Mar 2025) and 22-dimensional features (e.g., 12-hour historical demand lags, cyclic temporal encodings), the model outperforms standard XGBoost and LSTM baselines on the Mar 2025 validation set, achieving lower MAE/RMSE and ~92% R².
+          The model supports smart city mobility management (e.g., proactive taxi supply adjustment) and offers interpretability via attention weights, with extendability to other cities and mobility services.
+          </div>
+          <span class="pub-toggle">More</span>
+          <span class="pub-sep">·</span>
+            <a class="pub-pdf" href="docs/Publications/2025-12 IET SCS Urban mobility demand forecasting with a hybrid attention-XGBoost model A case study on NYC taxi data.pdf" target="_blank">
+              📄 Full text (PDF)
+            </a>
+        </div>
+      <li>Li, X. L., Huo, S. C.(Presenter), & <strong>Huang, Y. J.</strong><strong>(2025)</strong>. Adaptive urban congestion modeling and zonal signal control based on taxi trajectory data. Accepted for publication in the Proceedings of the 9th IET Smart Cities Symposium (IET SCS 2025), Bahrain.</li>
+        <div class="pub-abstract">
+          <div class="pub-text collapsed">
+          This study proposes a regionalized urban traffic signal control strategy integrating taxi trajectory data mining, OD heatmap clustering, and congestion index modeling to address peak-hour congestion, as traditional static timing methods lack real-time adaptability.
+          Using New York City 2025 Yellow Taxi peak-hour data, it constructs OD heat networks, clusters zones via K-Means, defines a "congestion pressure index", and designs a three-tier responsive signal mechanism.
+          Minute-level simulations verify the strategy’s high deployability—alleviating peak local congestion, enhancing system stability, and offering a data-driven solution for intelligent traffic signal management.
+          </div>
+          <span class="pub-toggle">More</span>
+          <span class="pub-sep">·</span>
+            <a class="pub-pdf" href="docs/Publications/2025-12 IET SCS Adaptive urban congestion modeling and zonal signal control based on taxi trajectory data.pdf" target="_blank">
+              📄 Full text (PDF)
+            </a>
+        </div>
       <li>Who Holds the Reins of Power? – Platforms Challenging Traditional Offline Transactions <em>(Working Paper)</em> </li>
       <li>Two-phase optimization methods for project scheduling problem with uncertain activity durations <em>(Working Paper)</em> </li>
       <li>Timely and equitably allocation of medical resources considering secondary mortality under public health emergency <em>(Working Paper)</em> </li>
+</li>
     </ol>
   </section>
 
@@ -527,6 +662,15 @@
   }, { rootMargin: "-40% 0px -55% 0px", threshold: 0 });
 
   sections.forEach(s => io.observe(s));
+
+  /* Publications Abstract A unified control of "More/Collapse"*/
+  document.querySelectorAll(".pub-toggle").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const text = btn.previousElementSibling;
+      const collapsed = text.classList.toggle("collapsed");
+      btn.textContent = collapsed ? "More" : "Less";
+    });
+  });
 </script>
 </body>
 </html>
