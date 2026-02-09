@@ -1,0 +1,9 @@
+cd /d D:\PowerProject\LocalGit\hongwu122.github.io
+
+git status
+
+git add -A
+
+git commit -m "Update documents"
+
+git push hongwu122.github.io main
