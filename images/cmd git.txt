@@ -1,0 +1,57 @@
+进入，右键-Git Bash-输入“git init”初始化成一个Git可管理的仓库
+初始化：本地建库（即文件夹），git init
+添加到仓库：代码文件放入本地库，git add .
+提交： git commit -m “注释内容”，提交到仓库
+新建远程仓库并关联：在Github上设置好SSH密钥后，新建一个远程仓库， git remote add origin https://github.com/xu-xiaoya/Elegent.git关联
+推送：git push (-u) origin master，把本地仓库的代码推送到远程仓库Github上
+
+
+①问题一：新建远程仓库的时候勾选Initialize this repository with a README，推送时可能会报failed to push some refs to https://github.com/xu-xiaoya/Elegent.git的错。
+
+解决方案：这是由于你新创建的那个仓库里面的README文件不在本地仓库目录中，这时可以同步内容。
+
+$ git pull --rebase origin master
+
+
+//git的初始化 会在blog文件夹下生成.git文件
+>> git init
+Initialized empty Git repository in D:/blog/.git/
+//添加
+> git add .
+//提交
+> git commit "first commit"
+//访问github上地址
+> git remote add origin git@github.com:账号/账号.github.io.git
+//将本地的master分支推送到origin主机，同时指定origin为默认主机
+> git push -u origin master
+//提交成功 控制台会打印出以下的内容，供参考
+//Git文件提交  (注意是master分支）
+> git pull origin master
+//提交
+> git push origin master
+
+
+
+进入目录
+cd /d D:\PowerProject\LocalGit\hongwu122.github.io
+
+git status
+
+添加全部修改到暂存区
+git add -A
+
+提交修改。把暂存区（stage/index）里的文件，正式保存到本地 Git 仓库，生成一个“提交记录（commit）”。-m
+指定本次提交的“说明信息”（message），方便以后回溯。
+git commit -m "Update index.html and resume PDF"
+
+
+
+本地更新后，直接代码推到现有远端，更新云端
+git push hongwu122.github.io main
+
+
+
+注意不要开VPN！！！校园网也有可能登不了github 会导致网络错误
+
+
+
