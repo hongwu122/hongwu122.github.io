@@ -1,0 +1,6 @@
+{
+    "id":  "sproutpal",
+    "displayName":  "SproutPal",
+    "description":  "A yellow-orange sprout mascot closely matching the supplied reference character, without watermark text.",
+    "spritesheetPath":  "spritesheet.webp"
+}
