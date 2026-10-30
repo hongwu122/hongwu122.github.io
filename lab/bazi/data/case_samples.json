@@ -1,0 +1,96 @@
+[
+  {
+    "case_id": "sample_celeb_megumi_ogata",
+    "case_class": "public_figure_three_pillar",
+    "name": "緒方惠美",
+    "birth_date": "1965-06-06",
+    "gender": "female",
+    "region": "japan",
+    "category": "entertainment",
+    "pillars": {
+      "year": "乙巳",
+      "month": "壬午",
+      "day": "辛卯"
+    },
+    "day_master": "辛",
+    "pattern_tags": [
+      "辛金日主",
+      "伤官驾杀",
+      "伤官生财",
+      "身弱",
+      "用神为金土"
+    ],
+    "hour_pillar_available": false,
+    "source": "East Asian Celebrity BaZi Dataset",
+    "license": "CC BY 4.0"
+  },
+  {
+    "case_id": "sample_celeb_yuna_ito",
+    "case_class": "public_figure_three_pillar",
+    "name": "伊藤由奈",
+    "birth_date": "1983-09-20",
+    "gender": "female",
+    "region": "japan",
+    "category": "entertainment",
+    "pillars": {
+      "year": "癸亥",
+      "month": "辛酉",
+      "day": "辛亥"
+    },
+    "day_master": "辛",
+    "pattern_tags": [
+      "食伤泄秀",
+      "正印化杀",
+      "金白水清",
+      "辛金日主",
+      "双亥格局"
+    ],
+    "hour_pillar_available": false,
+    "source": "East Asian Celebrity BaZi Dataset",
+    "license": "CC BY 4.0"
+  },
+  {
+    "case_id": "sample_celeb_miyoshi_umeki",
+    "case_class": "public_figure_three_pillar",
+    "name": "梅木三吉",
+    "birth_date": "1929-05-08",
+    "gender": "female",
+    "region": "japan",
+    "category": "entertainment",
+    "pillars": {
+      "year": "己巳",
+      "month": "己巳",
+      "day": "癸丑"
+    },
+    "day_master": "癸",
+    "pattern_tags": [
+      "正财格",
+      "偏印化杀",
+      "杀印相生",
+      "身弱杀旺",
+      "癸丑日柱"
+    ],
+    "hour_pillar_available": false,
+    "source": "East Asian Celebrity BaZi Dataset",
+    "license": "CC BY 4.0"
+  },
+  {
+    "case_id": "sample_fate_2010_c1",
+    "case_class": "verified_event_full_chart_anonymous",
+    "name": null,
+    "birth_date": "1982-09-27",
+    "gender": "女",
+    "location": "香港",
+    "shichen": "申",
+    "pillars": {
+      "year": "壬戌",
+      "month": "己酉",
+      "day": "癸丑",
+      "hour": "庚申"
+    },
+    "day_master": "癸",
+    "source": "Fate-Bench / HKJFMA 2010 c1",
+    "note": "真实比赛命主样例；事件问答与答案请由开放数据导入脚本同步，避免手工转录遗漏。",
+    "license": "Fate-Bench compiled data CC BY 4.0; underlying source rights separately documented"
+  }
+]

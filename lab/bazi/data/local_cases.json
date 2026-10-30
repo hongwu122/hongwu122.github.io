@@ -1,0 +1,212 @@
+[
+  {
+    "name": "刘子敬",
+    "sex": "male",
+    "birth_date": "2001-08-09",
+    "hour": null,
+    "expected_pillars": [
+      "辛巳",
+      "丙申",
+      "甲辰",
+      "己巳"
+    ],
+    "source_file": "#U5218#U5b50#U656c.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "刘浦浦",
+    "sex": "male",
+    "birth_date": "2000-06-28",
+    "hour": null,
+    "expected_pillars": [
+      "庚辰",
+      "壬午",
+      "丁巳",
+      "丁未"
+    ],
+    "source_file": "#U5218#U6d66#U6d66.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "卢晏然",
+    "sex": "female",
+    "birth_date": "1990-04-27",
+    "hour": null,
+    "expected_pillars": [
+      "庚午",
+      "庚辰",
+      "壬戌",
+      "壬寅"
+    ],
+    "source_file": "#U5362#U664f#U7136.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "周雪介绍",
+    "sex": "female",
+    "birth_date": "2001-01-10",
+    "hour": 11,
+    "expected_pillars": [
+      "庚辰",
+      "己丑",
+      "癸酉",
+      "戊午"
+    ],
+    "source_file": "#U5468#U96ea#U4ecb#U7ecd.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "周雪",
+    "sex": "female",
+    "birth_date": "2001-01-10",
+    "hour": null,
+    "expected_pillars": [
+      "庚辰",
+      "己丑",
+      "癸酉",
+      "戊午"
+    ],
+    "source_file": "#U5468#U96ea.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "微",
+    "sex": "female",
+    "birth_date": "2001-04-20",
+    "hour": null,
+    "expected_pillars": [
+      "辛巳",
+      "壬辰",
+      "癸丑",
+      "癸丑"
+    ],
+    "source_file": "#U5fae.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "李晶晶",
+    "sex": "female",
+    "birth_date": "2003-07-22",
+    "hour": 16,
+    "expected_pillars": [
+      "癸未",
+      "己未",
+      "丙申",
+      "丙申"
+    ],
+    "source_file": "#U674e#U6676#U6676.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "浦浦妻",
+    "sex": "female",
+    "birth_date": "2001-02-02",
+    "hour": null,
+    "expected_pillars": [
+      "庚辰",
+      "己丑",
+      "丙申",
+      "辛卯"
+    ],
+    "source_file": "#U6d66#U6d66#U59bb.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "浦浦姐夫",
+    "sex": "male",
+    "birth_date": "1994-03-01",
+    "hour": null,
+    "expected_pillars": [
+      "甲戌",
+      "丙寅",
+      "丙戌",
+      "辛卯"
+    ],
+    "source_file": "#U6d66#U6d66#U59d0#U592b.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "浦浦姐闺蜜夫",
+    "sex": "male",
+    "birth_date": "1998-01-22",
+    "hour": null,
+    "expected_pillars": [
+      "丁丑",
+      "癸丑",
+      "己巳",
+      "丙寅"
+    ],
+    "source_file": "#U6d66#U6d66#U59d0#U95fa#U871c#U592b.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "浦浦姐闺蜜",
+    "sex": "female",
+    "birth_date": "1996-09-30",
+    "hour": null,
+    "expected_pillars": [
+      "丙子",
+      "丁酉",
+      "庚午",
+      "丙戌"
+    ],
+    "source_file": "#U6d66#U6d66#U59d0#U95fa#U871c.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "浦浦姐",
+    "sex": "female",
+    "birth_date": "1995-07-26",
+    "hour": null,
+    "expected_pillars": [
+      "乙亥",
+      "癸未",
+      "戊午",
+      "辛酉"
+    ],
+    "source_file": "#U6d66#U6d66#U59d0.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "滕阳阳",
+    "sex": "female",
+    "birth_date": "2000-10-06",
+    "hour": null,
+    "expected_pillars": [
+      "庚辰",
+      "乙酉",
+      "丁酉",
+      "丙午"
+    ],
+    "source_file": "#U6ed5#U9633#U9633.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "贾民千",
+    "sex": "female",
+    "birth_date": "2001-05-02",
+    "hour": null,
+    "expected_pillars": [
+      "辛巳",
+      "壬辰",
+      "乙丑",
+      "甲申"
+    ],
+    "source_file": "#U8d3e#U6c11#U5343.txt",
+    "source_kind": "local_case_txt"
+  },
+  {
+    "name": "黄永健",
+    "sex": "male",
+    "birth_date": "2001-08-27",
+    "hour": null,
+    "expected_pillars": [
+      "辛巳",
+      "丙申",
+      "壬戌",
+      "壬寅"
+    ],
+    "source_file": "#U9ec4#U6c38#U5065.txt",
+    "source_kind": "local_case_txt"
+  }
+]

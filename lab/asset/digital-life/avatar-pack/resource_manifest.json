@@ -1,0 +1,175 @@
+{
+  "animated": {
+    "mode_base": "animated/mode_base.webp",
+    "mode_helmet": "animated/mode_helmet.webp",
+    "mode_sunglasses": "animated/mode_sunglasses.webp",
+    "mode_headset": "animated/mode_headset.webp",
+    "expr_default": "animated/expr_default.webp",
+    "expr_smile": "animated/expr_smile.webp",
+    "expr_thinking": "animated/expr_thinking.webp",
+    "expr_surprised": "animated/expr_surprised.webp",
+    "expr_angry": "animated/expr_angry.webp",
+    "expr_shy": "animated/expr_shy.webp",
+    "expr_happy": "animated/expr_happy.webp",
+    "expr_confused": "animated/expr_confused.webp",
+    "expr_interact": "animated/expr_interact.webp",
+    "expr_working": "animated/expr_working.webp",
+    "expr_travel": "animated/expr_travel.webp",
+    "expr_wave": "animated/expr_wave.webp",
+    "q_idle": "animated/q_idle.webp",
+    "q_walk": "animated/q_walk.webp",
+    "q_work": "animated/q_work.webp",
+    "q_interact": "animated/q_interact.webp",
+    "q_travel": "animated/q_travel.webp",
+    "q_run": "animated/q_run.webp",
+    "q_jump": "animated/q_jump.webp",
+    "q_read": "animated/q_read.webp"
+  },
+  "frames": {
+    "mode_base": [
+      "frames/mode_base/frame_00.webp",
+      "frames/mode_base/frame_01.webp",
+      "frames/mode_base/frame_02.webp",
+      "frames/mode_base/frame_03.webp"
+    ],
+    "mode_helmet": [
+      "frames/mode_helmet/frame_00.webp",
+      "frames/mode_helmet/frame_01.webp",
+      "frames/mode_helmet/frame_02.webp",
+      "frames/mode_helmet/frame_03.webp"
+    ],
+    "mode_sunglasses": [
+      "frames/mode_sunglasses/frame_00.webp",
+      "frames/mode_sunglasses/frame_01.webp",
+      "frames/mode_sunglasses/frame_02.webp",
+      "frames/mode_sunglasses/frame_03.webp"
+    ],
+    "mode_headset": [
+      "frames/mode_headset/frame_00.webp",
+      "frames/mode_headset/frame_01.webp",
+      "frames/mode_headset/frame_02.webp",
+      "frames/mode_headset/frame_03.webp"
+    ],
+    "expr_default": [
+      "frames/expr_default/frame_00.webp",
+      "frames/expr_default/frame_01.webp",
+      "frames/expr_default/frame_02.webp",
+      "frames/expr_default/frame_03.webp"
+    ],
+    "expr_smile": [
+      "frames/expr_smile/frame_00.webp",
+      "frames/expr_smile/frame_01.webp",
+      "frames/expr_smile/frame_02.webp",
+      "frames/expr_smile/frame_03.webp"
+    ],
+    "expr_thinking": [
+      "frames/expr_thinking/frame_00.webp",
+      "frames/expr_thinking/frame_01.webp",
+      "frames/expr_thinking/frame_02.webp",
+      "frames/expr_thinking/frame_03.webp"
+    ],
+    "expr_surprised": [
+      "frames/expr_surprised/frame_00.webp",
+      "frames/expr_surprised/frame_01.webp",
+      "frames/expr_surprised/frame_02.webp",
+      "frames/expr_surprised/frame_03.webp"
+    ],
+    "expr_angry": [
+      "frames/expr_angry/frame_00.webp",
+      "frames/expr_angry/frame_01.webp",
+      "frames/expr_angry/frame_02.webp",
+      "frames/expr_angry/frame_03.webp"
+    ],
+    "expr_shy": [
+      "frames/expr_shy/frame_00.webp",
+      "frames/expr_shy/frame_01.webp",
+      "frames/expr_shy/frame_02.webp",
+      "frames/expr_shy/frame_03.webp"
+    ],
+    "expr_happy": [
+      "frames/expr_happy/frame_00.webp",
+      "frames/expr_happy/frame_01.webp",
+      "frames/expr_happy/frame_02.webp",
+      "frames/expr_happy/frame_03.webp"
+    ],
+    "expr_confused": [
+      "frames/expr_confused/frame_00.webp",
+      "frames/expr_confused/frame_01.webp",
+      "frames/expr_confused/frame_02.webp",
+      "frames/expr_confused/frame_03.webp"
+    ],
+    "expr_interact": [
+      "frames/expr_interact/frame_00.webp",
+      "frames/expr_interact/frame_01.webp",
+      "frames/expr_interact/frame_02.webp",
+      "frames/expr_interact/frame_03.webp"
+    ],
+    "expr_working": [
+      "frames/expr_working/frame_00.webp",
+      "frames/expr_working/frame_01.webp",
+      "frames/expr_working/frame_02.webp",
+      "frames/expr_working/frame_03.webp"
+    ],
+    "expr_travel": [
+      "frames/expr_travel/frame_00.webp",
+      "frames/expr_travel/frame_01.webp",
+      "frames/expr_travel/frame_02.webp",
+      "frames/expr_travel/frame_03.webp"
+    ],
+    "expr_wave": [
+      "frames/expr_wave/frame_00.webp",
+      "frames/expr_wave/frame_01.webp",
+      "frames/expr_wave/frame_02.webp",
+      "frames/expr_wave/frame_03.webp"
+    ],
+    "q_idle": [
+      "frames/q_idle/frame_00.webp",
+      "frames/q_idle/frame_01.webp",
+      "frames/q_idle/frame_02.webp",
+      "frames/q_idle/frame_03.webp"
+    ],
+    "q_walk": [
+      "frames/q_walk/frame_00.webp",
+      "frames/q_walk/frame_01.webp",
+      "frames/q_walk/frame_02.webp",
+      "frames/q_walk/frame_03.webp"
+    ],
+    "q_work": [
+      "frames/q_work/frame_00.webp",
+      "frames/q_work/frame_01.webp",
+      "frames/q_work/frame_02.webp",
+      "frames/q_work/frame_03.webp"
+    ],
+    "q_interact": [
+      "frames/q_interact/frame_00.webp",
+      "frames/q_interact/frame_01.webp",
+      "frames/q_interact/frame_02.webp",
+      "frames/q_interact/frame_03.webp"
+    ],
+    "q_travel": [
+      "frames/q_travel/frame_00.webp",
+      "frames/q_travel/frame_01.webp",
+      "frames/q_travel/frame_02.webp",
+      "frames/q_travel/frame_03.webp"
+    ],
+    "q_run": [
+      "frames/q_run/frame_00.webp",
+      "frames/q_run/frame_01.webp",
+      "frames/q_run/frame_02.webp",
+      "frames/q_run/frame_03.webp"
+    ],
+    "q_jump": [
+      "frames/q_jump/frame_00.webp",
+      "frames/q_jump/frame_01.webp",
+      "frames/q_jump/frame_02.webp",
+      "frames/q_jump/frame_03.webp"
+    ],
+    "q_read": [
+      "frames/q_read/frame_00.webp",
+      "frames/q_read/frame_01.webp",
+      "frames/q_read/frame_02.webp",
+      "frames/q_read/frame_03.webp"
+    ]
+  },
+  "version": "v3-transparent-rebuild"
+}

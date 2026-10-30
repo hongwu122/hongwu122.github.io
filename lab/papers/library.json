@@ -1,0 +1,1190 @@
+{
+  "schema_version": 3,
+  "generated_at": "2026-10-04T17:55:01+08:00",
+  "mode": "manual-first",
+  "total": 17,
+  "supported_formats": [
+    "pdf"
+  ],
+  "document_types": [
+    "journal_article",
+    "conference_paper",
+    "survey_report",
+    "project_proposal",
+    "competition_entry",
+    "other"
+  ],
+  "venues": {
+    "Open Journal of Social Sciences": {
+      "name": "Open Journal of Social Sciences",
+      "short_name": "JSS",
+      "type": "journal",
+      "publisher": "Scientific Research Publishing (SCIRP)",
+      "issn": [
+        "2327-5952",
+        "2327-5960"
+      ],
+      "indexing": [
+        "Google Scholar（期刊官网列示）"
+      ],
+      "quartile": "无 JCR 分区",
+      "homepage": "https://www.scirp.org/journal/jss",
+      "description": "开放获取社会科学综合期刊，覆盖应用与理论社会科学议题。",
+      "note": "截至本次核对，未按 SCIE/SSCI/Scopus 期刊展示；因此不标注 SCI 或 JCR 分区。",
+      "source_url": "https://www.scirp.org/journal/AimScope?JournalID=2430",
+      "verified_at": "2026-10-01"
+    },
+    "种子世界": {
+      "name": "种子世界",
+      "short_name": "种子世界",
+      "type": "journal",
+      "publisher": "种子世界编辑部",
+      "issn": [
+        "1000-8071"
+      ],
+      "cn": "CN 23-1213/S",
+      "indexing": [
+        "CNKI",
+        "万方"
+      ],
+      "quartile": "非 SCI / 无 JCR 分区",
+      "homepage": "http://www.zzsjbjb.cn/",
+      "description": "面向农业、种业与农业生产实践的中文综合性期刊。",
+      "note": "中文农业期刊；不按 SCI/JCR 分区展示。",
+      "source_url": "https://www.wanweixueshu.com/journal/detail/7683",
+      "verified_at": "2026-10-01"
+    },
+    "Disaster Medicine and Public Health Preparedness": {
+      "name": "Disaster Medicine and Public Health Preparedness",
+      "short_name": "DMPHP",
+      "type": "journal",
+      "publisher": "Cambridge University Press",
+      "issn": [
+        "1935-7893",
+        "1938-744X"
+      ],
+      "indexing": [
+        "SCIE",
+        "SSCI",
+        "Scopus",
+        "PubMed/MEDLINE"
+      ],
+      "quartile": "JCR 2025 Q3",
+      "metrics": {
+        "impact_factor_2025": 1.7,
+        "jcr_rank_2025": "287 / 443 · Public, Environmental & Occupational Health"
+      },
+      "homepage": "https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness",
+      "description": "聚焦灾害医学、公共卫生准备与应急响应，强调医学与公共卫生实践的衔接。",
+      "source_url": "https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness",
+      "verified_at": "2026-10-01"
+    },
+    "Expert Systems with Applications": {
+      "name": "Expert Systems with Applications",
+      "short_name": "ESWA",
+      "type": "journal",
+      "publisher": "Elsevier",
+      "issn": [
+        "0957-4174",
+        "1873-6793"
+      ],
+      "indexing": [
+        "SCIE",
+        "Scopus"
+      ],
+      "quartile": "JCR 2025 Q1",
+      "metrics": {
+        "impact_factor_2025": 9.4
+      },
+      "homepage": "https://www.sciencedirect.com/journal/expert-systems-with-applications",
+      "description": "面向专家系统、智能系统及其在工业、管理、工程等领域应用的国际期刊。",
+      "note": "分区与影响指标为本次公开资料核对结果，正式评价时仍建议以当年 JCR 为准。",
+      "source_url": "https://www.sciencedirect.com/journal/expert-systems-with-applications",
+      "verified_at": "2026-10-01"
+    },
+    "International Journal of General Systems": {
+      "name": "International Journal of General Systems",
+      "short_name": "IJGS",
+      "type": "journal",
+      "publisher": "Taylor & Francis",
+      "issn": [
+        "0308-1079",
+        "1563-5104"
+      ],
+      "indexing": [
+        "SCIE",
+        "Scopus",
+        "Ei Compendex",
+        "Web of Science"
+      ],
+      "quartile": "JCR 2025 Q2",
+      "metrics": {
+        "impact_factor_2025": 3.0,
+        "citescore_2025": 5.1,
+        "citescore_quartile_2025": "Q1"
+      },
+      "homepage": "https://www.tandfonline.com/journals/ggen20",
+      "description": "发表具有广泛系统适用性的系统科学理论、方法与实验研究，覆盖 AI、复杂系统、运筹与决策等主题。",
+      "source_url": "https://www.tandfonline.com/journals/ggen20/about-this-journal",
+      "verified_at": "2026-10-01"
+    },
+    "9th IET Smart Cities Symposium (IET SCS 2025)": {
+      "name": "9th IET Smart Cities Symposium (IET SCS 2025)",
+      "short_name": "IET SCS 2025",
+      "type": "conference",
+      "publisher": "Institution of Engineering and Technology (IET)",
+      "issn": [
+        "2732-4494"
+      ],
+      "isbn": [
+        "978-1-80705-454-0"
+      ],
+      "indexing": [
+        "IEEE Xplore",
+        "IET Conference Proceedings"
+      ],
+      "quartile": "会议论文集，不适用 JCR 分区",
+      "homepage": "https://localevents.theiet.org/register.php?event=f5efa3",
+      "description": "IET Bahrain 主办的智慧城市年度国际研讨会，2025 年会议在巴林举行并以混合形式举办。",
+      "note": "会议时间为 2025-12-01 至 2025-12-03；论文集于 2026 年正式出版并进入 IEEE Xplore。",
+      "source_url": "https://localevents.theiet.org/register.php?event=f5efa3",
+      "verified_at": "2026-10-01"
+    },
+    "Polish Journal of Environmental Studies": {
+      "name": "Polish Journal of Environmental Studies",
+      "short_name": "PJOES",
+      "type": "journal",
+      "publisher": "HARD Publishing Company",
+      "issn": [
+        "1230-1485",
+        "2083-5906"
+      ],
+      "indexing": [
+        "SCIE",
+        "Scopus"
+      ],
+      "quartile": "JCR 2025 Q4",
+      "metrics": {
+        "impact_factor_2025": 1.6
+      },
+      "homepage": "https://www.pjoes.com/",
+      "description": "环境科学综合期刊，涵盖环境研究、污染治理、生态与可持续发展等方向。",
+      "source_url": "https://www.pjoes.com/Impact-Factor,1104.html",
+      "verified_at": "2026-10-01"
+    }
+  },
+  "items": [
+    {
+      "file": "data/2021-03 基于电商扶贫的产业生态构建的调查研究——以土流集团信息化战疫助农为例.pdf",
+      "name": "2021-03 基于电商扶贫的产业生态构建的调查研究——以土流集团信息化战疫助农为例.pdf",
+      "ext": "pdf",
+      "size": 1981187,
+      "modified": "2026-10-01T16:08:21",
+      "sha256": "da2932ff3e88d123a9e6f64fa2a461e94f2a6ca45428e38ae0efe48ae9fce628",
+      "id": "pdf-3ea2eaeeac44",
+      "title": "基于电商扶贫的产业生态构建的调查研究——以土流集团信息化战疫助农为例",
+      "authors": [
+        "团队成员: 黄永健",
+        "刘佳奎",
+        "陈汪炫",
+        "朱心语",
+        "刘嘉彩",
+        "劳文斌",
+        "指导老师: 刘萌芽"
+      ],
+      "year": 2021,
+      "month": 3,
+      "document_type": "survey_report",
+      "publication_status": "unpublished",
+      "venue": "南华大学第九届“挑战杯”大学生课外学术科技作品竞赛",
+      "venue_short": "大挑",
+      "venue_type": "none",
+      "research_group": "数字乡村与产业生态",
+      "research_area": "电商扶贫与数字乡村",
+      "keywords": [
+        "电商扶贫",
+        "产业生态",
+        "土流集团",
+        "数字乡村",
+        "乡村振兴",
+        "供应链"
+      ],
+      "methods": [
+        "案例研究",
+        "访谈法",
+        "问卷调查",
+        "比较分析",
+        "文献研究"
+      ],
+      "abstract": "围绕农村电商扶贫模式与产业生态构建，以土流集团疫情期间的信息化助农实践为案例，分析数字乡村、普惠金融、生鲜供应链与农业大数据等做法，并讨论其对电商助农平台和政府扶贫决策的借鉴价值。",
+      "research_question": "电商平台如何通过数字化能力、供应链协同和产业生态建设改善传统扶贫模式，并形成可推广的助农机制？",
+      "data_sample": "以土流集团及其疫情期间助农实践为核心案例，结合企业资料、访谈、问卷与公开数据。",
+      "findings": "研究将土流集团的经验概括为数字乡村解决方案、普惠金融、农产品全供应链协同与农业大数据赋能，并提出加强农村数字基础设施、平台协同和本地电商品牌建设等建议。",
+      "outline": [
+        "绪论",
+        "理论基础",
+        "土流集团案例分析",
+        "电商扶贫产业生态构建建议",
+        "结论",
+        "附件：调查问卷与访谈记录"
+      ],
+      "authors_text": "团队成员: 黄永健; 刘佳奎; 陈汪炫; 朱心语; 刘嘉彩; 劳文斌; 指导老师: 刘萌芽",
+      "review": {
+        "status": "人工核对",
+        "reviewed_at": "2026-10-04T17:43:03+08:00",
+        "basis": "页面编辑"
+      },
+      "doi": ""
+    },
+    {
+      "file": "data/2021-04 “陪我吧”宠物寄养中心项目计划书2.1.pdf",
+      "name": "2021-04 “陪我吧”宠物寄养中心项目计划书2.1.pdf",
+      "ext": "pdf",
+      "size": 1634409,
+      "modified": "2026-10-01T16:08:36",
+      "sha256": "d7da6522126264a2ee81c900750b1732a8ef71823ac527a2593ba9edf26c287d",
+      "id": "pdf-6714c17f1d04",
+      "title": "“陪我吧”宠物寄养中心项目计划书",
+      "authors": [
+        "稻草人之梦团队: 王志杰",
+        "黄永健",
+        "卢慧珍",
+        "罗盈",
+        "周胜"
+      ],
+      "year": 2021,
+      "month": 4,
+      "document_type": "project_proposal",
+      "publication_status": "unpublished",
+      "venue": "全国大学生电子商务“创新、创意及创业”挑战赛",
+      "venue_short": "三创",
+      "venue_type": "none",
+      "research_group": "创业项目与商业模式",
+      "research_area": "宠物寄养服务与平台商业模式",
+      "keywords": [
+        "宠物寄养",
+        "宠物日托",
+        "直播寄养",
+        "C2C平台",
+        "B2C服务",
+        "商业计划"
+      ],
+      "methods": [
+        "市场调研",
+        "商业模式设计",
+        "STP分析",
+        "4P营销",
+        "财务预测",
+        "竞争分析"
+      ],
+      "abstract": "项目针对宠物主外出时的寄养与陪伴需求，提出“线下寄养 + 直播寄养 + 短期日托 + C2C家庭寄养平台”的复合服务模式，并从市场、运营、营销、融资和财务等方面形成完整创业方案。",
+      "research_question": "如何在传统宠物寄养基础上融合直播、电商与C2C平台机制，提升寄养透明度、服务弹性和供需匹配效率？",
+      "data_sample": "结合宠物行业资料、用户需求调研与市场分析形成项目方案。",
+      "findings": "方案将传统B2C寄养与线上C2C个人寄养、直播可视化和短期日托结合，形成多层次寄养服务，并配套差异化营销、价格与融资设计。",
+      "outline": [
+        "摘要",
+        "项目概述",
+        "市场分析",
+        "商业模式",
+        "运营方案",
+        "营销策略",
+        "财务预测与融资",
+        "风险分析",
+        "发展规划"
+      ],
+      "authors_text": "稻草人之梦团队: 王志杰; 黄永健; 卢慧珍; 罗盈; 周胜",
+      "review": {
+        "status": "人工核对",
+        "reviewed_at": "2026-10-04T17:41:24+08:00",
+        "basis": "页面编辑"
+      },
+      "doi": ""
+    },
+    {
+      "file": "data/2021-04 ”万千宠爱，美的常在“——广州市“美的”宠物清洁产品的消费意愿与行为调查研究报告7.5.pdf",
+      "name": "2021-04 ”万千宠爱，美的常在“——广州市“美的”宠物清洁产品的消费意愿与行为调查研究报告7.5.pdf",
+      "ext": "pdf",
+      "size": 1824833,
+      "modified": "2026-10-01T15:36:03",
+      "sha256": "bcf1e224064797e38bf8aeaa81a2cac6c68ded440afad38cc6e964e9a7d2c4c5",
+      "id": "pdf-e4422a54d46b",
+      "title": "“万千宠爱，美的常在”——广州市“美的”宠物清洁产品的消费意愿与行为调查研究报告",
+      "authors": [
+        "团队成员: 刘佳奎、刘顺、黄永健、何绮莹、颜晚妹",
+        "指导教师: 龙云、黎赔肆、曾经莲"
+      ],
+      "year": 2021,
+      "month": 4,
+      "document_type": "survey_report",
+      "publication_status": "unpublished",
+      "venue": "正大杯第十一届  全国大学生市场调查与分析大赛总决赛",
+      "venue_short": "正大杯",
+      "venue_type": "none",
+      "research_group": "消费者行为与市场研究",
+      "research_area": "宠物清洁产品消费行为",
+      "keywords": [
+        "广州市",
+        "美的品牌",
+        "宠物清洁产品",
+        "消费意愿",
+        "消费行为",
+        "市场细分"
+      ],
+      "methods": [
+        "问卷调查",
+        "描述性统计",
+        "交叉分析",
+        "卡方检验",
+        "信效度分析",
+        "相关分析",
+        "逐步回归",
+        "二阶聚类",
+        "STP",
+        "4P营销"
+      ],
+      "abstract": "以广州宠物消费人群为对象，研究美的品牌进入宠物清洁产品市场时的消费意愿、行为特征与产品需求。研究结合市场环境分析、问卷调查和统计建模，并据此提出产品开发、市场细分和营销策略。",
+      "research_question": "广州市消费者对宠物清洁产品的需求、购买意愿及其影响因素是什么，美的应如何据此进行产品定位与营销？",
+      "data_sample": "共发放342份问卷，获得290份有效问卷（线上203份、线下87份），有效率约85%。",
+      "findings": "问卷量表具有较高信效度；研究提炼出产品特性、创意审美和品牌知名度等关键购买影响因素，并将消费者划分为主力人群与潜在人群，分别提出性价比导向和品质/智能化导向策略。",
+      "outline": [
+        "绪论",
+        "研究设计",
+        "广州市宠物清洁产品市场环境分析",
+        "消费者行为现状及需求特征分析",
+        "美的宠物清洁产品开发策略",
+        "总结与展望"
+      ],
+      "authors_text": "团队成员: 刘佳奎、刘顺、黄永健、何绮莹、颜晚妹; 指导教师: 龙云、黎赔肆、曾经莲",
+      "review": {
+        "status": "人工核对",
+        "reviewed_at": "2026-10-04T17:42:16+08:00",
+        "basis": "页面编辑"
+      },
+      "doi": ""
+    },
+    {
+      "file": "data/2021-08 先锋者——国内首创体育田径测速AI裁判机器人7.0（省赛稿）.pdf",
+      "name": "2021-08 先锋者——国内首创体育田径测速AI裁判机器人7.0（省赛稿）.pdf",
+      "ext": "pdf",
+      "size": 2431136,
+      "modified": "2026-10-01T16:07:59",
+      "sha256": "c9ced46f06c3e46bc18e002a89fc40902c37b55b7d14c7b24294fc489b994621",
+      "id": "pdf-49546505bf3e",
+      "title": "先锋者——国内首创体育田径测速AI裁判机器人",
+      "authors": [
+        "团队成员: 陈冬梅",
+        "黄永健",
+        "盛裕洁",
+        "黄覃涛",
+        "郑汝银",
+        "黄淑慧",
+        "徐明安",
+        "刘佳奎",
+        "张颖",
+        "指导老师: 张革夫"
+      ],
+      "year": 2021,
+      "month": 8,
+      "document_type": "competition_entry",
+      "publication_status": "unpublished",
+      "venue": "湖南省第七届“互联网+”大学生创新创业大赛",
+      "venue_short": "互联网+ 大赛",
+      "venue_type": "none",
+      "research_group": "智慧体育与人工智能",
+      "research_area": "5G+AI田径测速与智慧体育",
+      "keywords": [
+        "智慧体育",
+        "AI裁判机器人",
+        "田径测速",
+        "5G",
+        "计算机视觉",
+        "校园体育"
+      ],
+      "methods": [
+        "产品设计",
+        "计算机视觉",
+        "5G通信",
+        "市场调研",
+        "商业模式设计",
+        "财务分析"
+      ],
+      "abstract": "面向校园径赛人工计时精度不足、统计效率低和训练反馈不足等痛点，设计集高速摄像、运动员识别、5G传输、智能计时与成绩分析于一体的AI裁判机器人，并形成产品、市场与商业化方案。",
+      "research_question": "如何以5G、图像识别和边缘智能构建低成本、高精度、适用于校园场景的田径测速与训练辅助系统？",
+      "data_sample": "基于多所中小学和高校的访谈与场景调研，并结合产品测试与市场资料。",
+      "findings": "方案通过机器人、高速摄像、发令枪传感通信和色码识别实现自动计时与运动员识别，目标市场优先定位学校体育教学、训练与校园赛事。",
+      "outline": [
+        "执行概要",
+        "项目概述",
+        "产品与技术",
+        "市场分析",
+        "商业模式",
+        "营销方案",
+        "运营与团队",
+        "财务分析",
+        "风险与发展规划"
+      ],
+      "authors_text": "团队成员: 陈冬梅; 黄永健; 盛裕洁; 黄覃涛; 郑汝银; 黄淑慧; 徐明安; 刘佳奎; 张颖; 指导老师: 张革夫",
+      "review": {
+        "status": "人工核对",
+        "reviewed_at": "2026-10-04T17:38:42+08:00",
+        "basis": "页面编辑"
+      },
+      "doi": ""
+    },
+    {
+      "file": "data/2021-12 基于超循环理论的学生党建部门工作创新机制研究——以南华大学为例.pdf",
+      "name": "2021-12 基于超循环理论的学生党建部门工作创新机制研究——以南华大学为例.pdf",
+      "ext": "pdf",
+      "size": 500973,
+      "modified": "2026-10-01T16:08:28",
+      "sha256": "dc32b081b2e6dfadf379360e237e2385be833ac463b4cc02d5fb96d66dec0764",
+      "id": "pdf-58361df9a600",
+      "title": "基于超循环理论的学生党建部门工作创新机制研究——以南华大学为例",
+      "authors": [
+        "黄永健",
+        "熊礼洋"
+      ],
+      "year": 2021,
+      "month": 11,
+      "document_type": "other",
+      "publication_status": "unpublished",
+      "venue": "",
+      "venue_short": "",
+      "venue_type": "none",
+      "research_group": "组织管理与社会研究",
+      "research_area": "学生党建组织机制",
+      "keywords": [
+        "超循环理论",
+        "共生理论",
+        "自组织理论",
+        "学生党建",
+        "部门效率"
+      ],
+      "methods": [
+        "理论建模",
+        "案例研究",
+        "超循环理论",
+        "共生理论",
+        "自组织理论"
+      ],
+      "abstract": "从学生部门多级管理的互利共生视角，结合超循环、自组织与共生理论，以南华大学经济管理与法学学院党建工作为例，构建“辅导员—部长—副部长—干事”超循环共生系统，并讨论学生党建部门的管理创新路径。",
+      "research_question": "如何突破学生党建部门“直线命令式”管理，通过多主体互利共生机制提升部门协同与工作效率？",
+      "data_sample": "南华大学经济管理与法学学院学生党建工作案例。",
+      "findings": "提出由辅导员、部长、副部长和干事构成的超循环共生系统，强调多主体参与、组织协同和依赖型制度变革。",
+      "outline": [
+        "引言",
+        "研究综述",
+        "超循环共生系统的构建",
+        "南华大学案例运行及启示",
+        "参考文献"
+      ],
+      "authors_text": "黄永健; 熊礼洋",
+      "review": {
+        "status": "人工核对",
+        "reviewed_at": "2026-10-04T17:39:13+08:00",
+        "basis": "页面编辑"
+      },
+      "doi": ""
+    },
+    {
+      "file": "data/2022-01 抑制还是增长？基于多元回归对国内房价变动的关系研究.pdf",
+      "name": "2022-01 抑制还是增长？基于多元回归对国内房价变动的关系研究.pdf",
+      "ext": "pdf",
+      "size": 775403,
+      "modified": "2026-10-01T16:08:07",
+      "sha256": "610322820cd6aa16731877898eb4f8066a517f25e1d9a627caed1a181a16b41f",
+      "id": "pdf-bb9e87b52947",
+      "title": "抑制还是增长？基于多元回归对国内房价变动的关系研究",
+      "authors": [
+        "刘佳奎",
+        "黄永健",
+        "谢荷锋"
+      ],
+      "year": 2022,
+      "month": 1,
+      "document_type": "other",
+      "publication_status": "unpublished",
+      "venue": "",
+      "venue_short": "",
+      "venue_type": "none",
+      "research_group": "计量经济与城市研究",
+      "research_area": "城市房价影响因素",
+      "keywords": [
+        "计量经济学",
+        "房价",
+        "EViews",
+        "多元回归",
+        "城市经济"
+      ],
+      "methods": [
+        "多元线性回归",
+        "OLS",
+        "逐步回归",
+        "White检验",
+        "多重共线性检验",
+        "EViews"
+      ],
+      "abstract": "利用中国35个主要城市的面板数据建立多元线性回归模型，分析居民储蓄、常住人口、GDP、房地产竣工面积及工资等变量与城市房价之间的关系，并对模型进行统计与经济意义检验。",
+      "research_question": "哪些城市经济与房地产变量与房价变动存在显著关系，政策调控背景下这些关系如何解释？",
+      "data_sample": "中国35个具有代表性的主要城市面板数据。",
+      "findings": "修正后的模型显示房地产竣工面积、居民储蓄、GDP与在岗职工平均工资等变量与房价存在显著关系，并据此提出保持房价合理区间和完善宏观调控的建议。",
+      "outline": [
+        "引言",
+        "模型设定",
+        "参数估计",
+        "模型检验",
+        "模型修正与检验分析",
+        "结论与建议",
+        "参考文献"
+      ],
+      "authors_text": "刘佳奎; 黄永健; 谢荷锋",
+      "review": {
+        "status": "人工核对",
+        "reviewed_at": "2026-10-04T17:39:25+08:00",
+        "basis": "页面编辑"
+      },
+      "doi": ""
+    },
+    {
+      "file": "data/2023-02 JSS Knowledge Structure of Emergency Logistics Research in China An Analysis Based on Bibliometrics.pdf",
+      "name": "2023-02 JSS Knowledge Structure of Emergency Logistics Research in China An Analysis Based on Bibliometrics.pdf",
+      "ext": "pdf",
+      "size": 1483216,
+      "modified": "2026-09-10T11:58:56",
+      "sha256": "41745565dd9e68f52f59e96306f969503b49742fe2d35b15699128082a26cc7c",
+      "id": "pdf-81379fcf80e7",
+      "title": "Knowledge Structure of Emergency Logistics Research in China: An Analysis Based on Bibliometrics",
+      "authors": [
+        "Tianming Ning",
+        "Yongjian Huang",
+        "Jinzhao Yang",
+        "Yaoyao Wei",
+        "Tian Xie",
+        "Yang Gao"
+      ],
+      "year": 2023,
+      "month": 2,
+      "document_type": "journal_article",
+      "publication_status": "published",
+      "venue": "Open Journal of Social Sciences",
+      "venue_short": "JSS",
+      "venue_type": "journal",
+      "doi": "10.4236/jss.2023.112016",
+      "volume_issue_pages": "Vol. 11, No. 2 (2023), 244–261",
+      "research_group": "应急管理与供应链",
+      "research_area": "应急物流知识图谱",
+      "keywords": [
+        "Emergency Logistics",
+        "CiteSpace",
+        "Visual Analysis",
+        "Knowledge Graph"
+      ],
+      "methods": [
+        "Bibliometrics",
+        "CiteSpace",
+        "Co-occurrence Analysis",
+        "Cluster Analysis",
+        "Burst Analysis"
+      ],
+      "abstract": "基于CNKI应急物流文献，使用CiteSpace开展作者、机构、关键词共现与聚类分析，梳理中国应急物流研究的知识结构、热点与前沿，并讨论疫情背景下智能物流系统等未来方向。",
+      "research_question": "中国应急物流研究的核心作者与机构、主要热点、知识结构和未来前沿是什么？",
+      "data_sample": "CNKI 2002年1月至2022年4月文献；检索2702条，经格式处理后纳入2694条记录。",
+      "findings": "研究归纳出应急物流网络与信息化、模型与系统、应急管理体系、选址—路径、应急物资保障等热点，并指出疫情响应与智能物流系统是重要后续方向。",
+      "outline": [
+        "Introduction",
+        "Data Sources and Research Methods",
+        "Research Results and Analysis",
+        "Conclusion and Future Work"
+      ],
+      "authors_text": "Tianming Ning; Yongjian Huang; Jinzhao Yang; Yaoyao Wei; Tian Xie; Yang Gao",
+      "review": {
+        "status": "人工整理",
+        "reviewed_at": "2026-10-01",
+        "basis": "PDF原文逐项核对"
+      }
+    },
+    {
+      "file": "data/2023-05 JSS Research on Student Department Work Innovation Mechanism Based on Hypercycle Theory.pdf",
+      "name": "2023-05 JSS Research on Student Department Work Innovation Mechanism Based on Hypercycle Theory.pdf",
+      "ext": "pdf",
+      "size": 471823,
+      "modified": "2026-09-10T11:56:32",
+      "sha256": "f4e85d01202c79727e8f2d32123490df7cc7be2b5edf8304cd47f329df87e1bd",
+      "id": "pdf-d2c7505b18a3",
+      "title": "Research on Student Department Work Innovation Mechanism Based on Hypercycle Theory",
+      "authors": [
+        "Yongjian Huang",
+        "Yaxun Bai",
+        "Wei Chen",
+        "Tianming Ning",
+        "Jinzhao Yang",
+        "Cuiyin Yao"
+      ],
+      "year": 2023,
+      "month": 5,
+      "document_type": "journal_article",
+      "publication_status": "published",
+      "venue": "Open Journal of Social Sciences",
+      "venue_short": "JSS",
+      "venue_type": "journal",
+      "doi": "10.4236/jss.2023.115005",
+      "volume_issue_pages": "Vol. 11, No. 5 (2023), 50–62",
+      "research_group": "组织管理与社会研究",
+      "research_area": "学生部门组织机制",
+      "keywords": [
+        "Hypercycle Theory",
+        "Symbiosis Theory",
+        "Self-Organization Theory",
+        "Student Department"
+      ],
+      "methods": [
+        "Hypercycle Theory",
+        "Symbiosis Theory",
+        "Self-Organization Theory",
+        "Case Study"
+      ],
+      "abstract": "从超循环、共生和自组织理论出发，讨论高校学生部门的多层级管理与工作创新机制，并以具体学生工作场景分析多主体协同、路径依赖和组织制度突破。",
+      "research_question": "如何用超循环与共生机制解释高校学生部门的层级互动，并形成更高效的多主体工作模式？",
+      "data_sample": "高校学生部门组织结构与案例材料。",
+      "findings": "研究提出多主体参与、辅导员辅助治理与依赖型制度变革等路径，以降低层级割裂并增强部门协同。",
+      "outline": [
+        "Introduction",
+        "Research Review",
+        "Hypercyclic Symbiosis System",
+        "The Case",
+        "Conclusion"
+      ],
+      "authors_text": "Yongjian Huang; Yaxun Bai; Wei Chen; Tianming Ning; Jinzhao Yang; Cuiyin Yao",
+      "review": {
+        "status": "人工整理",
+        "reviewed_at": "2026-10-01",
+        "basis": "PDF原文逐项核对"
+      }
+    },
+    {
+      "file": "data/2023_06 JSS Research on Hot Topics of Building and Developing Student Organizations --CiteSpace based visual analysis.pdf",
+      "name": "2023_06 JSS Research on Hot Topics of Building and Developing Student Organizations --CiteSpace based visual analysis.pdf",
+      "ext": "pdf",
+      "size": 2911054,
+      "modified": "2026-09-10T11:57:28",
+      "sha256": "ba0d90e0570cef0ef43ea390f1d1e2814f37ca648dbcf2ca0a4c6a908d9727b8",
+      "id": "pdf-8211d25b0eb3",
+      "title": "Research on Hot Topics of Building and Developing Student Organizations: CiteSpace Based Visual Analysis",
+      "authors": [
+        "Jie Wang",
+        "Bo Wang",
+        "Xue Jiang",
+        "Yongjian Huang",
+        "Jinzhao Yang"
+      ],
+      "year": 2023,
+      "month": 6,
+      "document_type": "journal_article",
+      "publication_status": "published",
+      "venue": "Open Journal of Social Sciences",
+      "venue_short": "JSS",
+      "venue_type": "journal",
+      "doi": "10.4236/jss.2023.116001",
+      "volume_issue_pages": "Vol. 11, No. 6 (2023), 1–19",
+      "research_group": "组织管理与社会研究",
+      "research_area": "学生组织建设文献计量",
+      "keywords": [
+        "Chinese Student Organizations",
+        "Student Organization Construction and Development",
+        "Knowledge Mapping",
+        "Cluster Analysis",
+        "CiteSpace"
+      ],
+      "methods": [
+        "Bibliometrics",
+        "CiteSpace",
+        "Knowledge Mapping",
+        "Cluster Analysis",
+        "Co-occurrence Analysis"
+      ],
+      "abstract": "利用CiteSpace对中国学生组织建设与发展研究进行知识图谱和文献计量分析，梳理百年来相关研究的发文趋势、核心期刊、研究网络与热点，并讨论未来组织建设与数字化工作方向。",
+      "research_question": "中国学生组织建设与发展研究的历史演进、知识网络、热点主题和未来研究方向是什么？",
+      "data_sample": "CNKI 1922年1月至2022年8月检索得到412篇文献。",
+      "findings": "研究显示学生组织研究长期围绕组织与建设展开，未来需强化科学研究方法、组织思想与制度建设，并利用新媒体推动学生组织工作智慧化。",
+      "outline": [
+        "Introduction",
+        "Data Sources and Research Methodology",
+        "Bibliometric Analysis",
+        "Hot Topics and Evolution",
+        "Conclusions"
+      ],
+      "authors_text": "Jie Wang; Bo Wang; Xue Jiang; Yongjian Huang; Jinzhao Yang",
+      "review": {
+        "status": "人工整理",
+        "reviewed_at": "2026-10-01",
+        "basis": "PDF原文逐项核对"
+      }
+    },
+    {
+      "file": "data/2023-07 种子世界 农村环境治理背景下农户绿色生产行为研究综述.pdf",
+      "name": "2023-07 种子世界 农村环境治理背景下农户绿色生产行为研究综述.pdf",
+      "ext": "pdf",
+      "size": 1298239,
+      "modified": "2024-05-15T10:16:43",
+      "sha256": "dec66776ea7f544bddf5831132c833497e775786dd86cd4a153abb69a9cac98c",
+      "id": "pdf-d5e5542ee2b6",
+      "title": "农村环境治理背景下农户绿色生产行为研究综述",
+      "authors": [
+        "刘佳奎",
+        "孙乐乐",
+        "谢磊",
+        "黄永健"
+      ],
+      "year": 2023,
+      "month": 7,
+      "document_type": "journal_article",
+      "publication_status": "published",
+      "venue": "种子世界",
+      "venue_short": "种子世界",
+      "venue_type": "journal",
+      "volume_issue_pages": "2023年第7期，242–245",
+      "research_group": "绿色发展与环境治理",
+      "research_area": "农户绿色生产行为",
+      "keywords": [
+        "环境治理",
+        "绿色生产行为",
+        "对策建议",
+        "研究综述"
+      ],
+      "methods": [
+        "Literature Review",
+        "Conceptual Synthesis"
+      ],
+      "abstract": "围绕农村环境治理背景下的农户绿色生产行为，对相关研究成果与现实问题进行综述，重点讨论绿色技术采纳意愿与行为悖离、绿色认知、激励约束机制和绿色农业市场化，并提出后续研究与治理建议。",
+      "research_question": "在农村环境治理背景下，农户绿色生产行为面临哪些主要障碍，现有研究提出了哪些解释与治理路径？",
+      "data_sample": "国内农户绿色生产行为相关文献与政策实践。",
+      "findings": "综述归纳出意愿—行为悖离、绿色认知滞后、激励约束机制不健全和市场化程度低等问题，并提出加强培训宣传、完善奖惩机制、推进认证与市场建设等方向。",
+      "outline": [
+        "农户绿色生产行为研究背景",
+        "现实问题综述",
+        "研究展望",
+        "结束语"
+      ],
+      "authors_text": "刘佳奎; 孙乐乐; 谢磊; 黄永健",
+      "review": {
+        "status": "人工核对",
+        "reviewed_at": "2026-10-01T16:36:40+08:00",
+        "basis": "人工确认后写入"
+      },
+      "doi": ""
+    },
+    {
+      "file": "../../docs/Publications/2025-03 DMPHP Pandemic Triggered Emergency Supply Chain Management Innovations A Scientometric Analysis Based on Bibliometrics and Dynamic Topic Models.pdf",
+      "name": "2025-03 DMPHP Pandemic Triggered Emergency Supply Chain Management Innovations A Scientometric Analysis Based on Bibliometrics and Dynamic Topic Models.pdf",
+      "ext": "pdf",
+      "size": 1638445,
+      "modified": "2025-09-03T16:00:12",
+      "sha256": "09889f2c5019543aa0a0f7403b644e7c9fdb908def25bb690ceca6f02fbaf383",
+      "id": "pdf-1c3a0945f615",
+      "title": "Pandemic Triggered Emergency Supply Chain Management Innovations: A Scientometric Analysis Based on Bibliometrics and Dynamic Topic Models",
+      "authors": [
+        "Tian Xie",
+        "Gui-Ye Dai",
+        "Wei-Fan Chen",
+        "Chen-Peng Yang",
+        "Yong-Jian Huang",
+        "Yao-Yao Wei"
+      ],
+      "year": 2025,
+      "month": 3,
+      "document_type": "journal_article",
+      "publication_status": "published",
+      "venue": "Disaster Medicine and Public Health Preparedness",
+      "venue_short": "DMPHP",
+      "venue_type": "journal",
+      "doi": "10.1017/dmp.2025.88",
+      "volume_issue_pages": "Volume 19 (2025), e88, 1–11",
+      "research_group": "应急管理与供应链",
+      "research_area": "疫情触发的应急供应链创新",
+      "keywords": [
+        "pandemic",
+        "emergency supply chain",
+        "bibliometrics",
+        "DTM"
+      ],
+      "methods": [
+        "Bibliometrics",
+        "Dynamic Topic Model",
+        "Regression Analysis",
+        "Scientometric Analysis"
+      ],
+      "abstract": "基于Web of Science核心合集，构建三阶段科学计量分析框架，结合文献计量、动态主题模型与回归分析，研究重大疫情触发的应急供应链知识创新、热点演化与未来趋势。",
+      "research_question": "重大疫情如何推动应急供应链领域的知识创新，研究热点如何演化，未来创新方向集中在哪里？",
+      "data_sample": "Web of Science Core Collection 共888篇相关文献。",
+      "findings": "研究认为疫情显著促进了应急供应链领域的知识产出与合作，未来热点主要集中在关键行业、管理创新与技术创新三个方面。",
+      "outline": [
+        "Introduction",
+        "Methods",
+        "Bibliometric Analysis",
+        "Dynamic Topic Modeling",
+        "Regression and Trend Analysis",
+        "Discussion",
+        "Conclusions"
+      ],
+      "authors_text": "Tian Xie; Gui-Ye Dai; Wei-Fan Chen; Chen-Peng Yang; Yong-Jian Huang; Yao-Yao Wei",
+      "review": {
+        "status": "人工整理",
+        "reviewed_at": "2026-10-01",
+        "basis": "PDF原文逐项核对"
+      }
+    },
+    {
+      "file": "../../docs/Publications/2025-04 ESWA Multi-dimensional assignment model and its algorithm for multi-features decision-making problems.pdf",
+      "name": "2025-04 ESWA Multi-dimensional assignment model and its algorithm for multi-features decision-making problems.pdf",
+      "ext": "pdf",
+      "size": 4818388,
+      "modified": "2025-01-24T14:09:28",
+      "sha256": "286d523c2b3204d850d74dcf7b34e5191fc739f91ab105483918ad7d1d73959a",
+      "id": "pdf-593361571bcc",
+      "title": "Multi-dimensional assignment model and its algorithm for multi-features decision-making problems",
+      "authors": [
+        "Tian Xie",
+        "Yong-jian Huang",
+        "Wei-fan Chen"
+      ],
+      "year": 2025,
+      "month": 4,
+      "document_type": "journal_article",
+      "publication_status": "published",
+      "venue": "Expert Systems with Applications",
+      "venue_short": "ESWA",
+      "venue_type": "journal",
+      "doi": "10.1016/j.eswa.2024.126369",
+      "volume_issue_pages": "Volume 270 (2025), 126369",
+      "research_group": "运筹优化与决策科学",
+      "research_area": "多维指派与智能优化",
+      "keywords": [
+        "Multi-features",
+        "Multi-dimensional assignment model",
+        "Optimization problems",
+        "VMA"
+      ],
+      "methods": [
+        "Multi-dimensional Assignment Model",
+        "Virtual Matching Algorithm",
+        "Roulette-wheel Selection",
+        "Particle Swarm Optimization",
+        "Genetic Algorithm",
+        "Dimensionality Reduction"
+      ],
+      "abstract": "提出用于多主体、多阶段、多资源与多约束决策问题的多维指派模型，并设计可降维的Virtual Matching Algorithm（VMA）。通过组织考核与番石榴生产案例，与PSO、Binary PSO、GA和GA-PSO等方法比较求解表现。",
+      "research_question": "如何统一描述2维到N维的多特征指派问题，并在复杂约束下实现高效、可扩展的求解？",
+      "data_sample": "组织考核与番石榴生产两个真实案例，并与多种群智能/遗传算法基线比较。",
+      "findings": "VMA在案例中表现出较好的求解速度和解质量，展示了多维指派模型与降维求解策略的通用性。",
+      "outline": [
+        "Introduction",
+        "Multi-dimensional Assignment Model",
+        "Virtual Matching Algorithm",
+        "Case Studies",
+        "Comparative Experiments",
+        "Discussion",
+        "Conclusion"
+      ],
+      "authors_text": "Tian Xie; Yong-jian Huang; Wei-fan Chen",
+      "review": {
+        "status": "人工整理",
+        "reviewed_at": "2026-10-01",
+        "basis": "PDF原文逐项核对"
+      },
+      "favorite": true,
+      "favorite_at": "2026-10-03T20:15:44+08:00"
+    },
+    {
+      "file": "../../docs/Publications/2025-08 IJGS Exploring the role of AI in smart grids a 20-year bibliometric-based overview.pdf",
+      "name": "2025-08 IJGS Exploring the role of AI in smart grids a 20-year bibliometric-based overview.pdf",
+      "ext": "pdf",
+      "size": 2402996,
+      "modified": "2025-12-16T14:59:17",
+      "sha256": "e0dc958c53f83051cccd5590856a4c1a826dffcb6c8bc6601317d328412a4e23",
+      "id": "pdf-5dc3878ea96e",
+      "title": "Exploring the role of AI in smart grids: a 20-year bibliometric-based overview",
+      "authors": [
+        "Yongjian Huang",
+        "Shucen Huo",
+        "Yikun Dong"
+      ],
+      "year": 2025,
+      "month": 8,
+      "document_type": "journal_article",
+      "publication_status": "published",
+      "venue": "International Journal of General Systems",
+      "venue_short": "IJGS",
+      "venue_type": "journal",
+      "doi": "10.1080/03081079.2025.2547187",
+      "volume_issue_pages": "Published online 19 Aug 2025",
+      "research_group": "能源系统与人工智能",
+      "research_area": "AI与智能电网文献计量",
+      "keywords": [
+        "Artificial intelligence",
+        "bibliometric",
+        "clustering methods",
+        "smart grids"
+      ],
+      "methods": [
+        "Bibliometric Mapping",
+        "Qualitative Content Analysis",
+        "VOSviewer",
+        "CiteSpace",
+        "Keyword Co-occurrence Clustering",
+        "Research Potential Evaluation"
+      ],
+      "abstract": "结合文献计量图谱与定性内容分析，系统梳理人工智能在智能电网中的20年演化。宏观层面分析发文增长、作者与机构，微观层面识别八个主题簇，并用Research Potential Evaluation模型评估潜在研究机会。",
+      "research_question": "AI与智能电网研究在2005—2024年如何演化，主要知识主题与新兴研究机会是什么？",
+      "data_sample": "Web of Science 2005—2024年共1,272篇文献。",
+      "findings": "研究识别出八个主题簇，并指出负荷管理、负荷预测、电网优化和智能电网运维等方向具有进一步研究潜力。",
+      "outline": [
+        "Introduction",
+        "Data and Methodology",
+        "Macro Bibliometric Analysis",
+        "Thematic Clustering and RPE",
+        "Discussion",
+        "Conclusions"
+      ],
+      "authors_text": "Yongjian Huang; Shucen Huo; Yikun Dong",
+      "review": {
+        "status": "人工核对",
+        "reviewed_at": "2026-10-01T16:36:40+08:00",
+        "basis": "人工确认后写入"
+      },
+      "favorite": true,
+      "favorite_at": "2026-10-03T20:15:50+08:00"
+    },
+    {
+      "file": "../../docs/Publications/2025-12 IET SCS Adaptive urban congestion modeling and zonal signal control based on taxi trajectory data.pdf",
+      "name": "2025-12 IET SCS Adaptive urban congestion modeling and zonal signal control based on taxi trajectory data.pdf",
+      "ext": "pdf",
+      "size": 569749,
+      "modified": "2026-09-10T12:23:21",
+      "sha256": "803c874b2e1848a7189bc59824524eeef88f8309bf8e4dd01b44fba5baed653c",
+      "id": "pdf-1521df3614dd",
+      "title": "Adaptive urban congestion modeling and zonal signal control based on taxi trajectory data",
+      "authors": [
+        "Shucen Huo",
+        "Yongjian Huang"
+      ],
+      "year": 2025,
+      "month": 12,
+      "document_type": "conference_paper",
+      "publication_status": "published",
+      "venue": "9th IET Smart Cities Symposium (IET SCS 2025)",
+      "venue_short": "IET SCS 2025",
+      "venue_type": "conference",
+      "doi": "10.1049/icp.2026.2492",
+      "volume_issue_pages": "IET Conference Proceedings · Vol. 2025 · Issue 63 · published 2026",
+      "research_group": "智慧交通与城市计算",
+      "research_area": "出租车轨迹驱动的拥堵建模与分区信号控制",
+      "keywords": [
+        "Urban Traffic Congestion",
+        "OD Heatmap",
+        "K-Means",
+        "Congestion Pressure Index",
+        "Signal Control"
+      ],
+      "methods": [
+        "Taxi Trajectory Mining",
+        "OD Heatmap",
+        "K-Means Clustering",
+        "Congestion Pressure Index",
+        "Adaptive Signal Control",
+        "Simulation"
+      ],
+      "abstract": "利用纽约出租车轨迹数据构建拥堵压力指标，通过OD热力图与空间聚类形成交通分区，并针对不同区域设计自适应信号控制策略，形成“状态感知—区域分析—策略响应”的闭环控制框架。",
+      "research_question": "如何利用大规模出租车轨迹识别高峰期空间拥堵结构，并将分区结果转化为可执行的自适应信号控制策略？",
+      "data_sample": "纽约市出租车高峰时段轨迹数据。",
+      "findings": "研究表明城市出行存在明显空间集中与时间不均衡特征；基于OD热力图和聚类的分区可为区域化信号控制提供量化依据。",
+      "outline": [
+        "Introduction",
+        "Literature Review",
+        "Methodology",
+        "Empirical Results",
+        "Conclusion"
+      ],
+      "authors_text": "Shucen Huo; Yongjian Huang",
+      "review": {
+        "status": "人工核对",
+        "reviewed_at": "2026-10-04T17:31:55+08:00",
+        "basis": "页面编辑"
+      }
+    },
+    {
+      "file": "../../docs/Publications/2025-12 IET SCS Urban mobility demand forecasting with a hybrid attention-XGBoost model A case study on NYC taxi data.pdf",
+      "name": "2025-12 IET SCS Urban mobility demand forecasting with a hybrid attention-XGBoost model A case study on NYC taxi data.pdf",
+      "ext": "pdf",
+      "size": 538461,
+      "modified": "2026-09-10T12:20:46",
+      "sha256": "f917513bd68aaeaa96268aba7f0ecaa60e2389f5605b4f14e2f8639ac5f05e3a",
+      "id": "pdf-2f47224846a3",
+      "title": "Urban mobility demand forecasting with a hybrid attention-XGBoost model: A case study on NYC taxi data",
+      "authors": [
+        "Yongjian Huang",
+        "Shucen Huo"
+      ],
+      "year": 2025,
+      "month": 12,
+      "document_type": "conference_paper",
+      "publication_status": "published",
+      "venue": "9th IET Smart Cities Symposium (IET SCS 2025)",
+      "venue_short": "IET SCS 2025",
+      "venue_type": "conference",
+      "doi": "10.1049/icp.2026.2493",
+      "volume_issue_pages": "IET Conference Proceedings · Vol. 2025 · Issue 63 · published 2026",
+      "research_group": "智慧交通与城市计算",
+      "research_area": "城市出行需求预测",
+      "keywords": [
+        "Urban Mobility Forecasting",
+        "Hybrid Attention",
+        "XGBoost",
+        "NYC Taxi",
+        "Mutual Information"
+      ],
+      "methods": [
+        "Feature Engineering",
+        "Mutual Information Attention",
+        "XGBoost",
+        "Time-series Validation",
+        "MAE",
+        "RMSE",
+        "R²"
+      ],
+      "abstract": "以纽约市出租车需求为案例，构建融合特征工程、互信息注意力机制与XGBoost的混合预测框架，用于城市出行需求的时空预测，并通过时间序列训练/验证设计评估模型表现。",
+      "research_question": "如何在可解释、计算效率较高的框架下融合时序与空间特征，提高城市出租车需求预测的稳定性与精度？",
+      "data_sample": "NYC TLC出租车数据，按城市TLC zones构建需求特征，并采用按时间划分的训练与验证集。",
+      "findings": "混合Attention-XGBoost框架能够在城市出租车需求预测中利用关键时空特征，并为后续月份的需求预测提供可操作的建模路径。",
+      "outline": [
+        "Introduction",
+        "Related Work",
+        "Methodology",
+        "NYC Taxi Dataset",
+        "Feature Construction",
+        "Attention via Mutual Information",
+        "XGBoost Regression",
+        "Experiments",
+        "Results and Analysis",
+        "Conclusions and Future Work"
+      ],
+      "authors_text": "Yongjian Huang; Shucen Huo",
+      "review": {
+        "status": "人工整理",
+        "reviewed_at": "2026-10-01",
+        "basis": "PDF原文逐项核对"
+      }
+    },
+    {
+      "file": "../../docs/Publications/2026-01 PJOES Prediction and Path Planning Framework of X City’s Carbon Emissions Based on the Long Short-Term Memory Network Model.pdf",
+      "name": "2026-01 PJOES Prediction and Path Planning Framework of X City’s Carbon Emissions Based on the Long Short-Term Memory Network Model.pdf",
+      "ext": "pdf",
+      "size": 1633207,
+      "modified": "2026-02-10T10:23:28",
+      "sha256": "cb43ff86b0d9a80180d0d34bb342d89aaec0a0567981c4dd6ca899abe79fe0b5",
+      "id": "pdf-67e77e00edae",
+      "title": "Prediction and Path Planning Framework of X City’s Carbon Emissions Based on the Long Short-Term Memory Network Model",
+      "authors": [
+        "Yongjian Huang",
+        "Mohammed Redha Qader",
+        "Jian Zhou",
+        "Xiang Zhang"
+      ],
+      "year": 2026,
+      "month": 1,
+      "document_type": "journal_article",
+      "publication_status": "published",
+      "venue": "Polish Journal of Environmental Studies",
+      "venue_short": "PJOES",
+      "venue_type": "journal",
+      "doi": "10.15244/pjoes/199609",
+      "volume_issue_pages": "Vol. 35, No. 1 (2026), 1195–1208 · online 10 Mar 2025",
+      "research_group": "绿色发展与环境治理",
+      "research_area": "碳排放预测与双碳路径规划",
+      "keywords": [
+        "carbon emissions",
+        "path planning",
+        "LSTM",
+        "LMDI",
+        "Kaya model"
+      ],
+      "methods": [
+        "Kaya Model",
+        "LMDI",
+        "Logistic Regression",
+        "ARIMA",
+        "Least Squares",
+        "LSTM",
+        "Scenario Analysis"
+      ],
+      "abstract": "构建城市碳排放核算、驱动因素分解、预测与路径规划一体化框架：使用Kaya与LMDI进行碳核算和因素分解，以Logistic、ARIMA和最小二乘分别预测人口、GDP和能源消费，并以LSTM预测区域碳排放，进一步设计双碳情景路径。",
+      "research_question": "如何将碳核算、驱动因素分解与时间序列/深度学习预测结合，为城市碳达峰和碳中和制定可解释的情景路径？",
+      "data_sample": "City X 2010—2020年历史数据用于核算与模型训练，并预测2021—2060年人口、GDP、能源消费与碳排放。",
+      "findings": "研究形成LMDI/Kaya核算、Logistic/ARIMA/最小二乘预测与LSTM碳排预测的组合框架，并设置三类情景，为2030碳达峰与2060碳中和目标提供路径参考。",
+      "outline": [
+        "Introduction",
+        "Materials and Methods",
+        "Data and Sources",
+        "Carbon Accounting and LMDI/Kaya Decomposition",
+        "Population / GDP / Energy Forecasting",
+        "LSTM Carbon Emission Prediction",
+        "Scenario and Path Planning",
+        "Results and Discussion",
+        "Conclusions"
+      ],
+      "authors_text": "Yongjian Huang; Mohammed Redha Qader; Jian Zhou; Xiang Zhang",
+      "review": {
+        "status": "人工整理",
+        "reviewed_at": "2026-10-01",
+        "basis": "PDF原文逐项核对"
+      }
+    },
+    {
+      "id": "pdf-088cec307fca",
+      "file": "data/2024-08 年第三届“钉钉杯”大学生大数据挑战赛论文.pdf",
+      "name": "2024-08 年第三届“钉钉杯”大学生大数据挑战赛论文.pdf",
+      "ext": "pdf",
+      "size": 3709659,
+      "modified": "2026-10-04T17:46:18",
+      "title": "基于 LSTM 和 Neural Prophet 模型的门诊收入预测研究",
+      "authors": [
+        "黄永健",
+        "吴卓薇",
+        "薛颖照"
+      ],
+      "authors_text": "黄永健; 吴卓薇; 薛颖照",
+      "year": 2024,
+      "month": "",
+      "document_type": "other",
+      "publication_status": "unpublished",
+      "venue": "2024年第三届“钉钉杯”大学生大数据挑战赛",
+      "venue_short": "钉钉杯",
+      "venue_type": "none",
+      "research_group": "待人工核对",
+      "research_area": "人工智能; 管理科学",
+      "keywords": [
+        "门诊收入预测；时间序列；LSTM",
+        "Neural Prophet",
+        "集成学习；医院运营管理"
+      ],
+      "methods": [
+        "LSTM",
+        "Neural Prophet",
+        "Stacking 集成学习；多元线性回归；ARIMA",
+        "XGBoost",
+        "Transformer"
+      ],
+      "abstract": "",
+      "research_question": "医院康复科门诊收入受季节、节假日、疫情等多重因素扰动，传统时序方法难以兼顾长期时序依赖与突发事件的捕捉。本研究旨在构建高精度时序预测模型，实现康复科多病房门诊收入预测，支撑医院医疗资源调配与运营决策。",
+      "data_sample": "数据来自某医院康复医学科一、二、三病房 2018-2024 年时间序列数据；字段包含日期、门诊患者人次数、药品总收入、病房收入、门诊收入；存在缺失值与异常值，收入存在季节性波动；预处理包含异常剔除、插值填充、标准化、划分训练 / 测试集，引入节假日特征。",
+      "findings": "LSTM 擅长捕捉时序长期依赖，Neural Prophet 对节假日、突发扰动事件拟合效果更好；Stacking 集成模型融合两类模型优势，预测精度与稳定性优于单一模型；康复科门诊收入呈现冬高夏低的季节特征，疫情会显著扰动收入水平；该预测方案可为医院资源调度、经营管控提供量化参考。",
+      "outline": [],
+      "review": {
+        "status": "人工核对",
+        "reviewed_at": "2026-10-04T17:55:01+08:00",
+        "basis": "页面编辑"
+      },
+      "doi": "",
+      "sha256": "5118240f8f85aec4403339dd12587f4674c3851c5c535afc0c7320e0b4c0abdc"
+    }
+  ]
+}

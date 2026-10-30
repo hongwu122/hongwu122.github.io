@@ -185,7 +185,7 @@
 <!-- Hero Banner with Motto -->
 <section id="home" class="hero" aria-label="Hero with motto">
   <div class="hero-content">
-    <p class="hero-motto zh">愿勇敢成为你我生活的态度</p>
+    <p class="hero-motto zh" id="secret-entry">愿勇敢成为你我生活的态度</p>
     <p class="hero-motto en">WHY NOT SOMETHING YOU LOVE?</p>
   </div>
 </section>
@@ -743,6 +743,24 @@
       const collapsed = text.classList.toggle("collapsed");
       btn.textContent = collapsed ? "More" : "Less";
     });
+  });
+</script>
+<script>
+  let secretClicks = 0;
+  let secretTimer;
+
+  document.getElementById("secret-entry").addEventListener("click", function () {
+    secretClicks++;
+
+    clearTimeout(secretTimer);
+
+    secretTimer = setTimeout(() => {
+      secretClicks = 0;
+    }, 2000);
+
+    if (secretClicks >= 5) {
+      window.location.href = "lab/";
+    }
   });
 </script>
 </body>

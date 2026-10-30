@@ -1,0 +1,75 @@
+{
+  "version": "2026-09-06-v3-audit",
+  "local_cases": {
+    "total": 15,
+    "three_pillar_usable": 15,
+    "three_pillar_match": 15,
+    "note": "15个本地命例的年/月/日柱全部与重算结果一致；多数txt没有可机器读取的原始时分，因此不把15/15表述为时柱端到端验证。"
+  },
+  "celebrity_three_pillar": {
+    "total": 2284,
+    "exact_match": 2280,
+    "mismatch": 4,
+    "solar_term_day_ambiguous_without_time": 3,
+    "source_conflict_needs_review": 1,
+    "mismatches": [
+      {
+        "id": "celeb:elon-musk",
+        "name": "埃隆·马斯克",
+        "date": "1971-06-28",
+        "dataset": "辛亥 甲午 乙酉",
+        "recalc": "辛亥 甲午 甲申",
+        "class": "source_conflict"
+      },
+      {
+        "id": "celeb:maria-ho",
+        "name": "何亭雨",
+        "date": "1983-03-06",
+        "dataset": "癸亥 甲寅 癸巳",
+        "recalc": "癸亥 乙卯 癸巳",
+        "class": "solar_term_day_missing_time"
+      },
+      {
+        "id": "celeb:park-so-dam",
+        "name": "朴素淡",
+        "date": "1991-09-08",
+        "dataset": "辛未 丙申 辛巳",
+        "recalc": "辛未 丁酉 辛巳",
+        "class": "solar_term_day_missing_time"
+      },
+      {
+        "id": "celeb:shiou-chieh-kai",
+        "name": "修杰楷",
+        "date": "1983-03-06",
+        "dataset": "癸亥 甲寅 癸巳",
+        "recalc": "癸亥 乙卯 癸巳",
+        "class": "solar_term_day_missing_time"
+      }
+    ],
+    "note": "三柱公众人物库没有可靠出生时辰。节气日恰好是本系统最需要保留“不确定”状态的案例，不能硬判谁错。"
+  },
+  "fate_bench_full_chart": {
+    "total_records": 63,
+    "usable_full_chart": 61,
+    "excluded_missing_birth_or_hour": 2,
+    "four_pillar_match": 61,
+    "excluded": [
+      "fate:hkjfma_2013_c4",
+      "fate:hkjfma_2018_c6"
+    ],
+    "note": "61个有完整出生时分和四柱的Fate-Bench案例，按其晚子时日柱口径重算后四柱61/61一致。此结果校验的是历法/排盘口径一致性，不证明传统预测具有科学准确率。"
+  },
+  "verified_event_qa": {
+    "questions": 295,
+    "people": 63,
+    "use": "用于后续规则覆盖率、事件检索与案例复盘，不作为“预测科学有效性”证据。"
+  },
+  "known_regressions_fixed": [
+    "节气近似边界与显示矛盾",
+    "真太阳时只显示不参与起时柱",
+    "岁运关系端点错标",
+    "大运只用小数年龄+Math.round年份",
+    "普通相刑宫位判断类型错误",
+    "流年婚恋三合被原局已有三合污染"
+  ]
+}

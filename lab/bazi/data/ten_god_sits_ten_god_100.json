@@ -1,0 +1,2302 @@
+[
+  {
+    "id": "比肩_坐_比肩",
+    "upper_ten_god": "比肩",
+    "lower_mainqi_ten_god": "比肩",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "lower_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "interpretive_template": "天干显比肩，地支本气为比肩，可先按“同类叠加”观察。比肩侧重自我、同辈，比肩侧重自我、同辈。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "比肩_坐_劫财",
+    "upper_ten_god": "比肩",
+    "lower_mainqi_ten_god": "劫财",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "lower_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "interpretive_template": "天干显比肩，地支本气为劫财，可先按“同类叠加”观察。比肩侧重自我、同辈，劫财侧重竞争、资源分配。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "比肩_坐_食神",
+    "upper_ten_god": "比肩",
+    "lower_mainqi_ten_god": "食神",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "lower_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "interpretive_template": "天干显比肩，地支本气为食神，可先按“天干主题向坐下泄化”观察。比肩侧重自我、同辈，食神侧重输出、表达。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "比肩_坐_伤官",
+    "upper_ten_god": "比肩",
+    "lower_mainqi_ten_god": "伤官",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "lower_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "interpretive_template": "天干显比肩，地支本气为伤官，可先按“天干主题向坐下泄化”观察。比肩侧重自我、同辈，伤官侧重表达、创新。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "比肩_坐_偏财",
+    "upper_ten_god": "比肩",
+    "lower_mainqi_ten_god": "偏财",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "lower_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "interpretive_template": "天干显比肩，地支本气为偏财，可先按“天干主题制约坐下主题”观察。比肩侧重自我、同辈，偏财侧重流动资源、市场。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "比肩_坐_正财",
+    "upper_ten_god": "比肩",
+    "lower_mainqi_ten_god": "正财",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "lower_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "interpretive_template": "天干显比肩，地支本气为正财，可先按“天干主题制约坐下主题”观察。比肩侧重自我、同辈，正财侧重稳定资源、经营。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "比肩_坐_七杀",
+    "upper_ten_god": "比肩",
+    "lower_mainqi_ten_god": "七杀",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "lower_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "interpretive_template": "天干显比肩，地支本气为七杀，可先按“坐下主题制约天干主题”观察。比肩侧重自我、同辈，七杀侧重压力、执行。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "比肩_坐_正官",
+    "upper_ten_god": "比肩",
+    "lower_mainqi_ten_god": "正官",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "lower_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "interpretive_template": "天干显比肩，地支本气为正官，可先按“坐下主题制约天干主题”观察。比肩侧重自我、同辈，正官侧重规范、职责。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "比肩_坐_偏印",
+    "upper_ten_god": "比肩",
+    "lower_mainqi_ten_god": "偏印",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "lower_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "interpretive_template": "天干显比肩，地支本气为偏印，可先按“坐下生扶天干主题”观察。比肩侧重自我、同辈，偏印侧重非标准学习、洞察。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "比肩_坐_正印",
+    "upper_ten_god": "比肩",
+    "lower_mainqi_ten_god": "正印",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "lower_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "interpretive_template": "天干显比肩，地支本气为正印，可先按“坐下生扶天干主题”观察。比肩侧重自我、同辈，正印侧重学习、资助。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "劫财_坐_比肩",
+    "upper_ten_god": "劫财",
+    "lower_mainqi_ten_god": "比肩",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "lower_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "interpretive_template": "天干显劫财，地支本气为比肩，可先按“同类叠加”观察。劫财侧重竞争、资源分配，比肩侧重自我、同辈。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "劫财_坐_劫财",
+    "upper_ten_god": "劫财",
+    "lower_mainqi_ten_god": "劫财",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "lower_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "interpretive_template": "天干显劫财，地支本气为劫财，可先按“同类叠加”观察。劫财侧重竞争、资源分配，劫财侧重竞争、资源分配。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "劫财_坐_食神",
+    "upper_ten_god": "劫财",
+    "lower_mainqi_ten_god": "食神",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "lower_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "interpretive_template": "天干显劫财，地支本气为食神，可先按“天干主题向坐下泄化”观察。劫财侧重竞争、资源分配，食神侧重输出、表达。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "劫财_坐_伤官",
+    "upper_ten_god": "劫财",
+    "lower_mainqi_ten_god": "伤官",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "lower_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "interpretive_template": "天干显劫财，地支本气为伤官，可先按“天干主题向坐下泄化”观察。劫财侧重竞争、资源分配，伤官侧重表达、创新。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "劫财_坐_偏财",
+    "upper_ten_god": "劫财",
+    "lower_mainqi_ten_god": "偏财",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "lower_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "interpretive_template": "天干显劫财，地支本气为偏财，可先按“天干主题制约坐下主题”观察。劫财侧重竞争、资源分配，偏财侧重流动资源、市场。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "劫财_坐_正财",
+    "upper_ten_god": "劫财",
+    "lower_mainqi_ten_god": "正财",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "lower_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "interpretive_template": "天干显劫财，地支本气为正财，可先按“天干主题制约坐下主题”观察。劫财侧重竞争、资源分配，正财侧重稳定资源、经营。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "劫财_坐_七杀",
+    "upper_ten_god": "劫财",
+    "lower_mainqi_ten_god": "七杀",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "lower_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "interpretive_template": "天干显劫财，地支本气为七杀，可先按“坐下主题制约天干主题”观察。劫财侧重竞争、资源分配，七杀侧重压力、执行。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "劫财_坐_正官",
+    "upper_ten_god": "劫财",
+    "lower_mainqi_ten_god": "正官",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "lower_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "interpretive_template": "天干显劫财，地支本气为正官，可先按“坐下主题制约天干主题”观察。劫财侧重竞争、资源分配，正官侧重规范、职责。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "劫财_坐_偏印",
+    "upper_ten_god": "劫财",
+    "lower_mainqi_ten_god": "偏印",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "lower_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "interpretive_template": "天干显劫财，地支本气为偏印，可先按“坐下生扶天干主题”观察。劫财侧重竞争、资源分配，偏印侧重非标准学习、洞察。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "劫财_坐_正印",
+    "upper_ten_god": "劫财",
+    "lower_mainqi_ten_god": "正印",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "lower_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "interpretive_template": "天干显劫财，地支本气为正印，可先按“坐下生扶天干主题”观察。劫财侧重竞争、资源分配，正印侧重学习、资助。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "食神_坐_比肩",
+    "upper_ten_god": "食神",
+    "lower_mainqi_ten_god": "比肩",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "lower_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "interpretive_template": "天干显食神，地支本气为比肩，可先按“坐下生扶天干主题”观察。食神侧重输出、表达，比肩侧重自我、同辈。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "食神_坐_劫财",
+    "upper_ten_god": "食神",
+    "lower_mainqi_ten_god": "劫财",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "lower_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "interpretive_template": "天干显食神，地支本气为劫财，可先按“坐下生扶天干主题”观察。食神侧重输出、表达，劫财侧重竞争、资源分配。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "食神_坐_食神",
+    "upper_ten_god": "食神",
+    "lower_mainqi_ten_god": "食神",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "lower_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "interpretive_template": "天干显食神，地支本气为食神，可先按“同类叠加”观察。食神侧重输出、表达，食神侧重输出、表达。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "食神_坐_伤官",
+    "upper_ten_god": "食神",
+    "lower_mainqi_ten_god": "伤官",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "lower_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "interpretive_template": "天干显食神，地支本气为伤官，可先按“同类叠加”观察。食神侧重输出、表达，伤官侧重表达、创新。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "食神_坐_偏财",
+    "upper_ten_god": "食神",
+    "lower_mainqi_ten_god": "偏财",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "lower_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "interpretive_template": "天干显食神，地支本气为偏财，可先按“天干主题向坐下泄化”观察。食神侧重输出、表达，偏财侧重流动资源、市场。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "食神_坐_正财",
+    "upper_ten_god": "食神",
+    "lower_mainqi_ten_god": "正财",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "lower_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "interpretive_template": "天干显食神，地支本气为正财，可先按“天干主题向坐下泄化”观察。食神侧重输出、表达，正财侧重稳定资源、经营。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "食神_坐_七杀",
+    "upper_ten_god": "食神",
+    "lower_mainqi_ten_god": "七杀",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "lower_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "interpretive_template": "天干显食神，地支本气为七杀，可先按“天干主题制约坐下主题”观察。食神侧重输出、表达，七杀侧重压力、执行。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "食神_坐_正官",
+    "upper_ten_god": "食神",
+    "lower_mainqi_ten_god": "正官",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "lower_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "interpretive_template": "天干显食神，地支本气为正官，可先按“天干主题制约坐下主题”观察。食神侧重输出、表达，正官侧重规范、职责。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "食神_坐_偏印",
+    "upper_ten_god": "食神",
+    "lower_mainqi_ten_god": "偏印",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "lower_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "interpretive_template": "天干显食神，地支本气为偏印，可先按“坐下主题制约天干主题”观察。食神侧重输出、表达，偏印侧重非标准学习、洞察。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "食神_坐_正印",
+    "upper_ten_god": "食神",
+    "lower_mainqi_ten_god": "正印",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "lower_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "interpretive_template": "天干显食神，地支本气为正印，可先按“坐下主题制约天干主题”观察。食神侧重输出、表达，正印侧重学习、资助。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "伤官_坐_比肩",
+    "upper_ten_god": "伤官",
+    "lower_mainqi_ten_god": "比肩",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "lower_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "interpretive_template": "天干显伤官，地支本气为比肩，可先按“坐下生扶天干主题”观察。伤官侧重表达、创新，比肩侧重自我、同辈。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "伤官_坐_劫财",
+    "upper_ten_god": "伤官",
+    "lower_mainqi_ten_god": "劫财",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "lower_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "interpretive_template": "天干显伤官，地支本气为劫财，可先按“坐下生扶天干主题”观察。伤官侧重表达、创新，劫财侧重竞争、资源分配。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "伤官_坐_食神",
+    "upper_ten_god": "伤官",
+    "lower_mainqi_ten_god": "食神",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "lower_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "interpretive_template": "天干显伤官，地支本气为食神，可先按“同类叠加”观察。伤官侧重表达、创新，食神侧重输出、表达。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "伤官_坐_伤官",
+    "upper_ten_god": "伤官",
+    "lower_mainqi_ten_god": "伤官",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "lower_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "interpretive_template": "天干显伤官，地支本气为伤官，可先按“同类叠加”观察。伤官侧重表达、创新，伤官侧重表达、创新。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "伤官_坐_偏财",
+    "upper_ten_god": "伤官",
+    "lower_mainqi_ten_god": "偏财",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "lower_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "interpretive_template": "天干显伤官，地支本气为偏财，可先按“天干主题向坐下泄化”观察。伤官侧重表达、创新，偏财侧重流动资源、市场。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "伤官_坐_正财",
+    "upper_ten_god": "伤官",
+    "lower_mainqi_ten_god": "正财",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "lower_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "interpretive_template": "天干显伤官，地支本气为正财，可先按“天干主题向坐下泄化”观察。伤官侧重表达、创新，正财侧重稳定资源、经营。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "伤官_坐_七杀",
+    "upper_ten_god": "伤官",
+    "lower_mainqi_ten_god": "七杀",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "lower_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "interpretive_template": "天干显伤官，地支本气为七杀，可先按“天干主题制约坐下主题”观察。伤官侧重表达、创新，七杀侧重压力、执行。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "伤官_坐_正官",
+    "upper_ten_god": "伤官",
+    "lower_mainqi_ten_god": "正官",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "lower_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "interpretive_template": "天干显伤官，地支本气为正官，可先按“天干主题制约坐下主题”观察。伤官侧重表达、创新，正官侧重规范、职责。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "伤官_坐_偏印",
+    "upper_ten_god": "伤官",
+    "lower_mainqi_ten_god": "偏印",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "lower_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "interpretive_template": "天干显伤官，地支本气为偏印，可先按“坐下主题制约天干主题”观察。伤官侧重表达、创新，偏印侧重非标准学习、洞察。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "伤官_坐_正印",
+    "upper_ten_god": "伤官",
+    "lower_mainqi_ten_god": "正印",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "lower_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "interpretive_template": "天干显伤官，地支本气为正印，可先按“坐下主题制约天干主题”观察。伤官侧重表达、创新，正印侧重学习、资助。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏财_坐_比肩",
+    "upper_ten_god": "偏财",
+    "lower_mainqi_ten_god": "比肩",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "lower_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "interpretive_template": "天干显偏财，地支本气为比肩，可先按“坐下主题制约天干主题”观察。偏财侧重流动资源、市场，比肩侧重自我、同辈。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏财_坐_劫财",
+    "upper_ten_god": "偏财",
+    "lower_mainqi_ten_god": "劫财",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "lower_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "interpretive_template": "天干显偏财，地支本气为劫财，可先按“坐下主题制约天干主题”观察。偏财侧重流动资源、市场，劫财侧重竞争、资源分配。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏财_坐_食神",
+    "upper_ten_god": "偏财",
+    "lower_mainqi_ten_god": "食神",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "lower_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "interpretive_template": "天干显偏财，地支本气为食神，可先按“坐下生扶天干主题”观察。偏财侧重流动资源、市场，食神侧重输出、表达。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏财_坐_伤官",
+    "upper_ten_god": "偏财",
+    "lower_mainqi_ten_god": "伤官",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "lower_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "interpretive_template": "天干显偏财，地支本气为伤官，可先按“坐下生扶天干主题”观察。偏财侧重流动资源、市场，伤官侧重表达、创新。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏财_坐_偏财",
+    "upper_ten_god": "偏财",
+    "lower_mainqi_ten_god": "偏财",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "lower_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "interpretive_template": "天干显偏财，地支本气为偏财，可先按“同类叠加”观察。偏财侧重流动资源、市场，偏财侧重流动资源、市场。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏财_坐_正财",
+    "upper_ten_god": "偏财",
+    "lower_mainqi_ten_god": "正财",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "lower_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "interpretive_template": "天干显偏财，地支本气为正财，可先按“同类叠加”观察。偏财侧重流动资源、市场，正财侧重稳定资源、经营。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏财_坐_七杀",
+    "upper_ten_god": "偏财",
+    "lower_mainqi_ten_god": "七杀",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "lower_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "interpretive_template": "天干显偏财，地支本气为七杀，可先按“天干主题向坐下泄化”观察。偏财侧重流动资源、市场，七杀侧重压力、执行。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏财_坐_正官",
+    "upper_ten_god": "偏财",
+    "lower_mainqi_ten_god": "正官",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "lower_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "interpretive_template": "天干显偏财，地支本气为正官，可先按“天干主题向坐下泄化”观察。偏财侧重流动资源、市场，正官侧重规范、职责。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏财_坐_偏印",
+    "upper_ten_god": "偏财",
+    "lower_mainqi_ten_god": "偏印",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "lower_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "interpretive_template": "天干显偏财，地支本气为偏印，可先按“天干主题制约坐下主题”观察。偏财侧重流动资源、市场，偏印侧重非标准学习、洞察。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏财_坐_正印",
+    "upper_ten_god": "偏财",
+    "lower_mainqi_ten_god": "正印",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "lower_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "interpretive_template": "天干显偏财，地支本气为正印，可先按“天干主题制约坐下主题”观察。偏财侧重流动资源、市场，正印侧重学习、资助。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正财_坐_比肩",
+    "upper_ten_god": "正财",
+    "lower_mainqi_ten_god": "比肩",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "lower_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "interpretive_template": "天干显正财，地支本气为比肩，可先按“坐下主题制约天干主题”观察。正财侧重稳定资源、经营，比肩侧重自我、同辈。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正财_坐_劫财",
+    "upper_ten_god": "正财",
+    "lower_mainqi_ten_god": "劫财",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "lower_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "interpretive_template": "天干显正财，地支本气为劫财，可先按“坐下主题制约天干主题”观察。正财侧重稳定资源、经营，劫财侧重竞争、资源分配。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正财_坐_食神",
+    "upper_ten_god": "正财",
+    "lower_mainqi_ten_god": "食神",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "lower_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "interpretive_template": "天干显正财，地支本气为食神，可先按“坐下生扶天干主题”观察。正财侧重稳定资源、经营，食神侧重输出、表达。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正财_坐_伤官",
+    "upper_ten_god": "正财",
+    "lower_mainqi_ten_god": "伤官",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "lower_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "interpretive_template": "天干显正财，地支本气为伤官，可先按“坐下生扶天干主题”观察。正财侧重稳定资源、经营，伤官侧重表达、创新。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正财_坐_偏财",
+    "upper_ten_god": "正财",
+    "lower_mainqi_ten_god": "偏财",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "lower_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "interpretive_template": "天干显正财，地支本气为偏财，可先按“同类叠加”观察。正财侧重稳定资源、经营，偏财侧重流动资源、市场。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正财_坐_正财",
+    "upper_ten_god": "正财",
+    "lower_mainqi_ten_god": "正财",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "lower_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "interpretive_template": "天干显正财，地支本气为正财，可先按“同类叠加”观察。正财侧重稳定资源、经营，正财侧重稳定资源、经营。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正财_坐_七杀",
+    "upper_ten_god": "正财",
+    "lower_mainqi_ten_god": "七杀",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "lower_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "interpretive_template": "天干显正财，地支本气为七杀，可先按“天干主题向坐下泄化”观察。正财侧重稳定资源、经营，七杀侧重压力、执行。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正财_坐_正官",
+    "upper_ten_god": "正财",
+    "lower_mainqi_ten_god": "正官",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "lower_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "interpretive_template": "天干显正财，地支本气为正官，可先按“天干主题向坐下泄化”观察。正财侧重稳定资源、经营，正官侧重规范、职责。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正财_坐_偏印",
+    "upper_ten_god": "正财",
+    "lower_mainqi_ten_god": "偏印",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "lower_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "interpretive_template": "天干显正财，地支本气为偏印，可先按“天干主题制约坐下主题”观察。正财侧重稳定资源、经营，偏印侧重非标准学习、洞察。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正财_坐_正印",
+    "upper_ten_god": "正财",
+    "lower_mainqi_ten_god": "正印",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "lower_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "interpretive_template": "天干显正财，地支本气为正印，可先按“天干主题制约坐下主题”观察。正财侧重稳定资源、经营，正印侧重学习、资助。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "七杀_坐_比肩",
+    "upper_ten_god": "七杀",
+    "lower_mainqi_ten_god": "比肩",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "lower_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "interpretive_template": "天干显七杀，地支本气为比肩，可先按“天干主题制约坐下主题”观察。七杀侧重压力、执行，比肩侧重自我、同辈。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "七杀_坐_劫财",
+    "upper_ten_god": "七杀",
+    "lower_mainqi_ten_god": "劫财",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "lower_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "interpretive_template": "天干显七杀，地支本气为劫财，可先按“天干主题制约坐下主题”观察。七杀侧重压力、执行，劫财侧重竞争、资源分配。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "七杀_坐_食神",
+    "upper_ten_god": "七杀",
+    "lower_mainqi_ten_god": "食神",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "lower_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "interpretive_template": "天干显七杀，地支本气为食神，可先按“坐下主题制约天干主题”观察。七杀侧重压力、执行，食神侧重输出、表达。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "七杀_坐_伤官",
+    "upper_ten_god": "七杀",
+    "lower_mainqi_ten_god": "伤官",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "lower_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "interpretive_template": "天干显七杀，地支本气为伤官，可先按“坐下主题制约天干主题”观察。七杀侧重压力、执行，伤官侧重表达、创新。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "七杀_坐_偏财",
+    "upper_ten_god": "七杀",
+    "lower_mainqi_ten_god": "偏财",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "lower_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "interpretive_template": "天干显七杀，地支本气为偏财，可先按“坐下生扶天干主题”观察。七杀侧重压力、执行，偏财侧重流动资源、市场。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "七杀_坐_正财",
+    "upper_ten_god": "七杀",
+    "lower_mainqi_ten_god": "正财",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "lower_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "interpretive_template": "天干显七杀，地支本气为正财，可先按“坐下生扶天干主题”观察。七杀侧重压力、执行，正财侧重稳定资源、经营。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "七杀_坐_七杀",
+    "upper_ten_god": "七杀",
+    "lower_mainqi_ten_god": "七杀",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "lower_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "interpretive_template": "天干显七杀，地支本气为七杀，可先按“同类叠加”观察。七杀侧重压力、执行，七杀侧重压力、执行。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "七杀_坐_正官",
+    "upper_ten_god": "七杀",
+    "lower_mainqi_ten_god": "正官",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "lower_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "interpretive_template": "天干显七杀，地支本气为正官，可先按“同类叠加”观察。七杀侧重压力、执行，正官侧重规范、职责。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "七杀_坐_偏印",
+    "upper_ten_god": "七杀",
+    "lower_mainqi_ten_god": "偏印",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "lower_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "interpretive_template": "天干显七杀，地支本气为偏印，可先按“天干主题向坐下泄化”观察。七杀侧重压力、执行，偏印侧重非标准学习、洞察。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "七杀_坐_正印",
+    "upper_ten_god": "七杀",
+    "lower_mainqi_ten_god": "正印",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "lower_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "interpretive_template": "天干显七杀，地支本气为正印，可先按“天干主题向坐下泄化”观察。七杀侧重压力、执行，正印侧重学习、资助。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正官_坐_比肩",
+    "upper_ten_god": "正官",
+    "lower_mainqi_ten_god": "比肩",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "lower_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "interpretive_template": "天干显正官，地支本气为比肩，可先按“天干主题制约坐下主题”观察。正官侧重规范、职责，比肩侧重自我、同辈。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正官_坐_劫财",
+    "upper_ten_god": "正官",
+    "lower_mainqi_ten_god": "劫财",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "lower_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "interpretive_template": "天干显正官，地支本气为劫财，可先按“天干主题制约坐下主题”观察。正官侧重规范、职责，劫财侧重竞争、资源分配。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正官_坐_食神",
+    "upper_ten_god": "正官",
+    "lower_mainqi_ten_god": "食神",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "lower_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "interpretive_template": "天干显正官，地支本气为食神，可先按“坐下主题制约天干主题”观察。正官侧重规范、职责，食神侧重输出、表达。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正官_坐_伤官",
+    "upper_ten_god": "正官",
+    "lower_mainqi_ten_god": "伤官",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "lower_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "interpretive_template": "天干显正官，地支本气为伤官，可先按“坐下主题制约天干主题”观察。正官侧重规范、职责，伤官侧重表达、创新。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正官_坐_偏财",
+    "upper_ten_god": "正官",
+    "lower_mainqi_ten_god": "偏财",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "lower_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "interpretive_template": "天干显正官，地支本气为偏财，可先按“坐下生扶天干主题”观察。正官侧重规范、职责，偏财侧重流动资源、市场。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正官_坐_正财",
+    "upper_ten_god": "正官",
+    "lower_mainqi_ten_god": "正财",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "lower_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "interpretive_template": "天干显正官，地支本气为正财，可先按“坐下生扶天干主题”观察。正官侧重规范、职责，正财侧重稳定资源、经营。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正官_坐_七杀",
+    "upper_ten_god": "正官",
+    "lower_mainqi_ten_god": "七杀",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "lower_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "interpretive_template": "天干显正官，地支本气为七杀，可先按“同类叠加”观察。正官侧重规范、职责，七杀侧重压力、执行。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正官_坐_正官",
+    "upper_ten_god": "正官",
+    "lower_mainqi_ten_god": "正官",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "lower_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "interpretive_template": "天干显正官，地支本气为正官，可先按“同类叠加”观察。正官侧重规范、职责，正官侧重规范、职责。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正官_坐_偏印",
+    "upper_ten_god": "正官",
+    "lower_mainqi_ten_god": "偏印",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "lower_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "interpretive_template": "天干显正官，地支本气为偏印，可先按“天干主题向坐下泄化”观察。正官侧重规范、职责，偏印侧重非标准学习、洞察。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正官_坐_正印",
+    "upper_ten_god": "正官",
+    "lower_mainqi_ten_god": "正印",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "lower_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "interpretive_template": "天干显正官，地支本气为正印，可先按“天干主题向坐下泄化”观察。正官侧重规范、职责，正印侧重学习、资助。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏印_坐_比肩",
+    "upper_ten_god": "偏印",
+    "lower_mainqi_ten_god": "比肩",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "lower_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "interpretive_template": "天干显偏印，地支本气为比肩，可先按“天干主题向坐下泄化”观察。偏印侧重非标准学习、洞察，比肩侧重自我、同辈。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏印_坐_劫财",
+    "upper_ten_god": "偏印",
+    "lower_mainqi_ten_god": "劫财",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "lower_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "interpretive_template": "天干显偏印，地支本气为劫财，可先按“天干主题向坐下泄化”观察。偏印侧重非标准学习、洞察，劫财侧重竞争、资源分配。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏印_坐_食神",
+    "upper_ten_god": "偏印",
+    "lower_mainqi_ten_god": "食神",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "lower_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "interpretive_template": "天干显偏印，地支本气为食神，可先按“天干主题制约坐下主题”观察。偏印侧重非标准学习、洞察，食神侧重输出、表达。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏印_坐_伤官",
+    "upper_ten_god": "偏印",
+    "lower_mainqi_ten_god": "伤官",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "lower_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "interpretive_template": "天干显偏印，地支本气为伤官，可先按“天干主题制约坐下主题”观察。偏印侧重非标准学习、洞察，伤官侧重表达、创新。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏印_坐_偏财",
+    "upper_ten_god": "偏印",
+    "lower_mainqi_ten_god": "偏财",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "lower_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "interpretive_template": "天干显偏印，地支本气为偏财，可先按“坐下主题制约天干主题”观察。偏印侧重非标准学习、洞察，偏财侧重流动资源、市场。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏印_坐_正财",
+    "upper_ten_god": "偏印",
+    "lower_mainqi_ten_god": "正财",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "lower_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "interpretive_template": "天干显偏印，地支本气为正财，可先按“坐下主题制约天干主题”观察。偏印侧重非标准学习、洞察，正财侧重稳定资源、经营。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏印_坐_七杀",
+    "upper_ten_god": "偏印",
+    "lower_mainqi_ten_god": "七杀",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "lower_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "interpretive_template": "天干显偏印，地支本气为七杀，可先按“坐下生扶天干主题”观察。偏印侧重非标准学习、洞察，七杀侧重压力、执行。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏印_坐_正官",
+    "upper_ten_god": "偏印",
+    "lower_mainqi_ten_god": "正官",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "lower_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "interpretive_template": "天干显偏印，地支本气为正官，可先按“坐下生扶天干主题”观察。偏印侧重非标准学习、洞察，正官侧重规范、职责。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏印_坐_偏印",
+    "upper_ten_god": "偏印",
+    "lower_mainqi_ten_god": "偏印",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "lower_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "interpretive_template": "天干显偏印，地支本气为偏印，可先按“同类叠加”观察。偏印侧重非标准学习、洞察，偏印侧重非标准学习、洞察。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "偏印_坐_正印",
+    "upper_ten_god": "偏印",
+    "lower_mainqi_ten_god": "正印",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "lower_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "interpretive_template": "天干显偏印，地支本气为正印，可先按“同类叠加”观察。偏印侧重非标准学习、洞察，正印侧重学习、资助。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正印_坐_比肩",
+    "upper_ten_god": "正印",
+    "lower_mainqi_ten_god": "比肩",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "lower_keywords": [
+      "自我",
+      "同辈",
+      "合作与竞争",
+      "边界"
+    ],
+    "interpretive_template": "天干显正印，地支本气为比肩，可先按“天干主题向坐下泄化”观察。正印侧重学习、资助，比肩侧重自我、同辈。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正印_坐_劫财",
+    "upper_ten_god": "正印",
+    "lower_mainqi_ten_god": "劫财",
+    "relation_type": "天干主题向坐下泄化",
+    "upper_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "lower_keywords": [
+      "竞争",
+      "资源分配",
+      "行动性",
+      "同辈"
+    ],
+    "interpretive_template": "天干显正印，地支本气为劫财，可先按“天干主题向坐下泄化”观察。正印侧重学习、资助，劫财侧重竞争、资源分配。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正印_坐_食神",
+    "upper_ten_god": "正印",
+    "lower_mainqi_ten_god": "食神",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "lower_keywords": [
+      "输出",
+      "表达",
+      "技能",
+      "享受"
+    ],
+    "interpretive_template": "天干显正印，地支本气为食神，可先按“天干主题制约坐下主题”观察。正印侧重学习、资助，食神侧重输出、表达。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正印_坐_伤官",
+    "upper_ten_god": "正印",
+    "lower_mainqi_ten_god": "伤官",
+    "relation_type": "天干主题制约坐下主题",
+    "upper_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "lower_keywords": [
+      "表达",
+      "创新",
+      "挑战规则",
+      "辨析"
+    ],
+    "interpretive_template": "天干显正印，地支本气为伤官，可先按“天干主题制约坐下主题”观察。正印侧重学习、资助，伤官侧重表达、创新。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正印_坐_偏财",
+    "upper_ten_god": "正印",
+    "lower_mainqi_ten_god": "偏财",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "lower_keywords": [
+      "流动资源",
+      "市场",
+      "机会",
+      "人际"
+    ],
+    "interpretive_template": "天干显正印，地支本气为偏财，可先按“坐下主题制约天干主题”观察。正印侧重学习、资助，偏财侧重流动资源、市场。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正印_坐_正财",
+    "upper_ten_god": "正印",
+    "lower_mainqi_ten_god": "正财",
+    "relation_type": "坐下主题制约天干主题",
+    "upper_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "lower_keywords": [
+      "稳定资源",
+      "经营",
+      "责任",
+      "现实"
+    ],
+    "interpretive_template": "天干显正印，地支本气为正财，可先按“坐下主题制约天干主题”观察。正印侧重学习、资助，正财侧重稳定资源、经营。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正印_坐_七杀",
+    "upper_ten_god": "正印",
+    "lower_mainqi_ten_god": "七杀",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "lower_keywords": [
+      "压力",
+      "执行",
+      "竞争",
+      "约束"
+    ],
+    "interpretive_template": "天干显正印，地支本气为七杀，可先按“坐下生扶天干主题”观察。正印侧重学习、资助，七杀侧重压力、执行。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正印_坐_正官",
+    "upper_ten_god": "正印",
+    "lower_mainqi_ten_god": "正官",
+    "relation_type": "坐下生扶天干主题",
+    "upper_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "lower_keywords": [
+      "规范",
+      "职责",
+      "秩序",
+      "名位"
+    ],
+    "interpretive_template": "天干显正印，地支本气为正官，可先按“坐下生扶天干主题”观察。正印侧重学习、资助，正官侧重规范、职责。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正印_坐_偏印",
+    "upper_ten_god": "正印",
+    "lower_mainqi_ten_god": "偏印",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "lower_keywords": [
+      "非标准学习",
+      "洞察",
+      "保护",
+      "转换"
+    ],
+    "interpretive_template": "天干显正印，地支本气为偏印，可先按“同类叠加”观察。正印侧重学习、资助，偏印侧重非标准学习、洞察。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  },
+  {
+    "id": "正印_坐_正印",
+    "upper_ten_god": "正印",
+    "lower_mainqi_ten_god": "正印",
+    "relation_type": "同类叠加",
+    "upper_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "lower_keywords": [
+      "学习",
+      "资助",
+      "保护",
+      "知识"
+    ],
+    "interpretive_template": "天干显正印，地支本气为正印，可先按“同类叠加”观察。正印侧重学习、资助，正印侧重学习、资助。真正取象需再检查月令旺衰、透藏、刑冲合会、是否得根以及该十神是否为格局核心；本组合不能单独定吉凶。",
+    "rule_origin": "十神五类生克链的结构化模板",
+    "quote": null,
+    "is_classic_quote": false,
+    "confidence": "B-traditional-derived"
+  }
+]

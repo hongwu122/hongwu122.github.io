@@ -1,0 +1,2182 @@
+[
+  {
+    "id": "甲_男_父亲",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "戊"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_男_母亲",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "癸"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_男_兄弟姐妹",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "甲",
+      "乙"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_男_配偶",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "配偶",
+    "ten_god_mapping": "正财",
+    "reference_stems": [
+      "己"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_男_配偶星系统",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "财星（正财/偏财）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_男_儿子",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "儿子",
+    "ten_god_mapping": "七杀",
+    "reference_stems": [
+      "庚"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_男_女儿",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "女儿",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "辛"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_男_子女总体系",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "子女总体系",
+    "ten_god_mapping": "官杀（男命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_女_父亲",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "戊"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_女_母亲",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "癸"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_女_兄弟姐妹",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "甲",
+      "乙"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_女_配偶",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "配偶",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "辛"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_女_配偶星系统",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "官杀（正官/七杀）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_女_儿子",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "儿子",
+    "ten_god_mapping": "伤官",
+    "reference_stems": [
+      "丁"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_女_女儿",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "女儿",
+    "ten_god_mapping": "食神",
+    "reference_stems": [
+      "丙"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "甲_女_子女总体系",
+    "day_master": "甲",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "子女总体系",
+    "ten_god_mapping": "食伤（女命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_男_父亲",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "己"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_男_母亲",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "壬"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_男_兄弟姐妹",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "乙",
+      "甲"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_男_配偶",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "配偶",
+    "ten_god_mapping": "正财",
+    "reference_stems": [
+      "戊"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_男_配偶星系统",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "财星（正财/偏财）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_男_儿子",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "儿子",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "庚"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_男_女儿",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "女儿",
+    "ten_god_mapping": "七杀",
+    "reference_stems": [
+      "辛"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_男_子女总体系",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "子女总体系",
+    "ten_god_mapping": "官杀（男命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_女_父亲",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "己"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_女_母亲",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "壬"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_女_兄弟姐妹",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "乙",
+      "甲"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_女_配偶",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "配偶",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "庚"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_女_配偶星系统",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "官杀（正官/七杀）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_女_儿子",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "儿子",
+    "ten_god_mapping": "食神",
+    "reference_stems": [
+      "丁"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_女_女儿",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "女儿",
+    "ten_god_mapping": "伤官",
+    "reference_stems": [
+      "丙"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "乙_女_子女总体系",
+    "day_master": "乙",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "子女总体系",
+    "ten_god_mapping": "食伤（女命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_男_父亲",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "庚"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_男_母亲",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "乙"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_男_兄弟姐妹",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "丙",
+      "丁"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_男_配偶",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "配偶",
+    "ten_god_mapping": "正财",
+    "reference_stems": [
+      "辛"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_男_配偶星系统",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "财星（正财/偏财）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_男_儿子",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "儿子",
+    "ten_god_mapping": "七杀",
+    "reference_stems": [
+      "壬"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_男_女儿",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "女儿",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "癸"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_男_子女总体系",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "子女总体系",
+    "ten_god_mapping": "官杀（男命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_女_父亲",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "庚"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_女_母亲",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "乙"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_女_兄弟姐妹",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "丙",
+      "丁"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_女_配偶",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "配偶",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "癸"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_女_配偶星系统",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "官杀（正官/七杀）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_女_儿子",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "儿子",
+    "ten_god_mapping": "伤官",
+    "reference_stems": [
+      "己"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_女_女儿",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "女儿",
+    "ten_god_mapping": "食神",
+    "reference_stems": [
+      "戊"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丙_女_子女总体系",
+    "day_master": "丙",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "子女总体系",
+    "ten_god_mapping": "食伤（女命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_男_父亲",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "辛"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_男_母亲",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "甲"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_男_兄弟姐妹",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "丁",
+      "丙"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_男_配偶",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "配偶",
+    "ten_god_mapping": "正财",
+    "reference_stems": [
+      "庚"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_男_配偶星系统",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "财星（正财/偏财）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_男_儿子",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "儿子",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "壬"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_男_女儿",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "女儿",
+    "ten_god_mapping": "七杀",
+    "reference_stems": [
+      "癸"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_男_子女总体系",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "子女总体系",
+    "ten_god_mapping": "官杀（男命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_女_父亲",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "辛"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_女_母亲",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "甲"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_女_兄弟姐妹",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "丁",
+      "丙"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_女_配偶",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "配偶",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "壬"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_女_配偶星系统",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "官杀（正官/七杀）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_女_儿子",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "儿子",
+    "ten_god_mapping": "食神",
+    "reference_stems": [
+      "己"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_女_女儿",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "女儿",
+    "ten_god_mapping": "伤官",
+    "reference_stems": [
+      "戊"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "丁_女_子女总体系",
+    "day_master": "丁",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "子女总体系",
+    "ten_god_mapping": "食伤（女命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_男_父亲",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "壬"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_男_母亲",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "丁"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_男_兄弟姐妹",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "戊",
+      "己"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_男_配偶",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "配偶",
+    "ten_god_mapping": "正财",
+    "reference_stems": [
+      "癸"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_男_配偶星系统",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "财星（正财/偏财）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_男_儿子",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "儿子",
+    "ten_god_mapping": "七杀",
+    "reference_stems": [
+      "甲"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_男_女儿",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "女儿",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "乙"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_男_子女总体系",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "子女总体系",
+    "ten_god_mapping": "官杀（男命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_女_父亲",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "壬"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_女_母亲",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "丁"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_女_兄弟姐妹",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "戊",
+      "己"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_女_配偶",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "配偶",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "乙"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_女_配偶星系统",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "官杀（正官/七杀）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_女_儿子",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "儿子",
+    "ten_god_mapping": "伤官",
+    "reference_stems": [
+      "辛"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_女_女儿",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "女儿",
+    "ten_god_mapping": "食神",
+    "reference_stems": [
+      "庚"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "戊_女_子女总体系",
+    "day_master": "戊",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "子女总体系",
+    "ten_god_mapping": "食伤（女命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_男_父亲",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "癸"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_男_母亲",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "丙"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_男_兄弟姐妹",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "己",
+      "戊"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_男_配偶",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "配偶",
+    "ten_god_mapping": "正财",
+    "reference_stems": [
+      "壬"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_男_配偶星系统",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "财星（正财/偏财）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_男_儿子",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "儿子",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "甲"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_男_女儿",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "女儿",
+    "ten_god_mapping": "七杀",
+    "reference_stems": [
+      "乙"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_男_子女总体系",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "子女总体系",
+    "ten_god_mapping": "官杀（男命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_女_父亲",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "癸"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_女_母亲",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "丙"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_女_兄弟姐妹",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "己",
+      "戊"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_女_配偶",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "配偶",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "甲"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_女_配偶星系统",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "官杀（正官/七杀）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_女_儿子",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "儿子",
+    "ten_god_mapping": "食神",
+    "reference_stems": [
+      "辛"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_女_女儿",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "女儿",
+    "ten_god_mapping": "伤官",
+    "reference_stems": [
+      "庚"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "己_女_子女总体系",
+    "day_master": "己",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "子女总体系",
+    "ten_god_mapping": "食伤（女命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_男_父亲",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "甲"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_男_母亲",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "己"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_男_兄弟姐妹",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "庚",
+      "辛"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_男_配偶",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "配偶",
+    "ten_god_mapping": "正财",
+    "reference_stems": [
+      "乙"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_男_配偶星系统",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "财星（正财/偏财）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_男_儿子",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "儿子",
+    "ten_god_mapping": "七杀",
+    "reference_stems": [
+      "丙"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_男_女儿",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "女儿",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "丁"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_男_子女总体系",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "子女总体系",
+    "ten_god_mapping": "官杀（男命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_女_父亲",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "甲"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_女_母亲",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "己"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_女_兄弟姐妹",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "庚",
+      "辛"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_女_配偶",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "配偶",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "丁"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_女_配偶星系统",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "官杀（正官/七杀）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_女_儿子",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "儿子",
+    "ten_god_mapping": "伤官",
+    "reference_stems": [
+      "癸"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_女_女儿",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "女儿",
+    "ten_god_mapping": "食神",
+    "reference_stems": [
+      "壬"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "庚_女_子女总体系",
+    "day_master": "庚",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "子女总体系",
+    "ten_god_mapping": "食伤（女命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_男_父亲",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "乙"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_男_母亲",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "戊"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_男_兄弟姐妹",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "辛",
+      "庚"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_男_配偶",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "配偶",
+    "ten_god_mapping": "正财",
+    "reference_stems": [
+      "甲"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_男_配偶星系统",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "财星（正财/偏财）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_男_儿子",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "儿子",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "丙"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_男_女儿",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "女儿",
+    "ten_god_mapping": "七杀",
+    "reference_stems": [
+      "丁"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_男_子女总体系",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "子女总体系",
+    "ten_god_mapping": "官杀（男命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_女_父亲",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "乙"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_女_母亲",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "戊"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_女_兄弟姐妹",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "辛",
+      "庚"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_女_配偶",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "配偶",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "丙"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_女_配偶星系统",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "官杀（正官/七杀）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_女_儿子",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "儿子",
+    "ten_god_mapping": "食神",
+    "reference_stems": [
+      "癸"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_女_女儿",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "女儿",
+    "ten_god_mapping": "伤官",
+    "reference_stems": [
+      "壬"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "辛_女_子女总体系",
+    "day_master": "辛",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "子女总体系",
+    "ten_god_mapping": "食伤（女命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_男_父亲",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "丙"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_男_母亲",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "辛"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_男_兄弟姐妹",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "壬",
+      "癸"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_男_配偶",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "配偶",
+    "ten_god_mapping": "正财",
+    "reference_stems": [
+      "丁"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_男_配偶星系统",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "财星（正财/偏财）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_男_儿子",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "儿子",
+    "ten_god_mapping": "七杀",
+    "reference_stems": [
+      "戊"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_男_女儿",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "女儿",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "己"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_男_子女总体系",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "男",
+    "relation": "子女总体系",
+    "ten_god_mapping": "官杀（男命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_女_父亲",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "丙"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_女_母亲",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "辛"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_女_兄弟姐妹",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "壬",
+      "癸"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_女_配偶",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "配偶",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "己"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_女_配偶星系统",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "官杀（正官/七杀）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_女_儿子",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "儿子",
+    "ten_god_mapping": "伤官",
+    "reference_stems": [
+      "乙"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_女_女儿",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "女儿",
+    "ten_god_mapping": "食神",
+    "reference_stems": [
+      "甲"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "壬_女_子女总体系",
+    "day_master": "壬",
+    "day_master_yinyang": "阳",
+    "sex": "女",
+    "relation": "子女总体系",
+    "ten_god_mapping": "食伤（女命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_男_父亲",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "丁"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_男_母亲",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "庚"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_男_兄弟姐妹",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "癸",
+      "壬"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_男_配偶",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "配偶",
+    "ten_god_mapping": "正财",
+    "reference_stems": [
+      "丙"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_男_配偶星系统",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "财星（正财/偏财）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_男_儿子",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "儿子",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "戊"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_男_女儿",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "女儿",
+    "ten_god_mapping": "七杀",
+    "reference_stems": [
+      "己"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_男_子女总体系",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "男",
+    "relation": "子女总体系",
+    "ten_god_mapping": "官杀（男命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_女_父亲",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "父亲",
+    "ten_god_mapping": "偏财",
+    "reference_stems": [
+      "丁"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_女_母亲",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "母亲",
+    "ten_god_mapping": "正印",
+    "reference_stems": [
+      "庚"
+    ],
+    "palace_crosscheck": "年柱/月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_女_兄弟姐妹",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "兄弟姐妹",
+    "ten_god_mapping": "比肩/劫财",
+    "reference_stems": [
+      "癸",
+      "壬"
+    ],
+    "palace_crosscheck": "月柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_女_配偶",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "配偶",
+    "ten_god_mapping": "正官",
+    "reference_stems": [
+      "戊"
+    ],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_女_配偶星系统",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "配偶星系统",
+    "ten_god_mapping": "官杀（正官/七杀）",
+    "reference_stems": [],
+    "palace_crosscheck": "日支/夫妻宫",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_女_儿子",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "儿子",
+    "ten_god_mapping": "食神",
+    "reference_stems": [
+      "乙"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_女_女儿",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "女儿",
+    "ten_god_mapping": "伤官",
+    "reference_stems": [
+      "甲"
+    ],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  },
+  {
+    "id": "癸_女_子女总体系",
+    "day_master": "癸",
+    "day_master_yinyang": "阴",
+    "sex": "女",
+    "relation": "子女总体系",
+    "ten_god_mapping": "食伤（女命常见流派）",
+    "reference_stems": [],
+    "palace_crosscheck": "时柱",
+    "variant": "现代子平常用映射；子女阴阳细分各派存在差异",
+    "warning": "六亲不能只按一颗十神定吉凶；须合看宫位、旺衰、喜忌、刑冲合会和岁运。"
+  }
+]

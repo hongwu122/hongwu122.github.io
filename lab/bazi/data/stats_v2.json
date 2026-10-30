@@ -1,0 +1,22 @@
+{
+  "version": "2.0",
+  "ready_offline": {
+    "day_pillars": 60,
+    "day_month": 720,
+    "day_hour": 720,
+    "ten_god_pairs": 100,
+    "ten_god_sits": 100,
+    "ten_god_by_pillar": 40,
+    "topic_rule_cards": 800,
+    "six_relatives_rows": 160,
+    "case_samples": 4
+  },
+  "open_import_targets": {
+    "public_figure_chart_seeds": 2284,
+    "verified_full_chart_people": 63,
+    "verified_event_qa": 295,
+    "public_domain_classic_roots": 8,
+    "expected_case_rows_before_dedupe": 2347
+  },
+  "integrity_note": "2,284名人数据是三柱真实人物命盘底盘，不等同完整断案；63个Fate-Bench命主属于有出生时辰与事件问答的高质量真实案例层。"
+}

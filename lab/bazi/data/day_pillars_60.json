@@ -1,0 +1,1902 @@
+[
+  {
+    "seq": 1,
+    "pillar": "甲子",
+    "stem": "甲",
+    "branch": "子",
+    "stem_element": "木",
+    "stem_yinyang": "阳",
+    "branch_element": "水",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "癸"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "癸",
+        "ten_god": "正印"
+      }
+    ],
+    "nayin": "海中金",
+    "self_sitting_life_stage": "沐浴",
+    "xun": "甲子旬",
+    "void": "戌亥",
+    "traditional_stem_summary": "阳木：传统类象常取乔木、栋梁，重生发与直达；不宜脱离月令、根气和十神单独下结论。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/jia-zi"
+  },
+  {
+    "seq": 2,
+    "pillar": "乙丑",
+    "stem": "乙",
+    "branch": "丑",
+    "stem_element": "木",
+    "stem_yinyang": "阴",
+    "branch_element": "土",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "己",
+      "癸",
+      "辛"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "己",
+        "ten_god": "偏财"
+      },
+      {
+        "stem": "癸",
+        "ten_god": "偏印"
+      },
+      {
+        "stem": "辛",
+        "ten_god": "七杀"
+      }
+    ],
+    "nayin": "海中金",
+    "self_sitting_life_stage": "衰",
+    "xun": "甲子旬",
+    "void": "戌亥",
+    "traditional_stem_summary": "阴木：传统类象常取花草藤萝，偏柔韧、适应；仍需结合月令与全局。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/yi-chou"
+  },
+  {
+    "seq": 3,
+    "pillar": "丙寅",
+    "stem": "丙",
+    "branch": "寅",
+    "stem_element": "火",
+    "stem_yinyang": "阳",
+    "branch_element": "木",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "甲",
+      "丙",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "甲",
+        "ten_god": "偏印"
+      },
+      {
+        "stem": "丙",
+        "ten_god": "比肩"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "食神"
+      }
+    ],
+    "nayin": "炉中火",
+    "self_sitting_life_stage": "长生",
+    "xun": "甲子旬",
+    "void": "戌亥",
+    "traditional_stem_summary": "阳火：传统类象常取太阳、光明，偏外显；强弱与调候会改变表现。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/bing-yin"
+  },
+  {
+    "seq": 4,
+    "pillar": "丁卯",
+    "stem": "丁",
+    "branch": "卯",
+    "stem_element": "火",
+    "stem_yinyang": "阴",
+    "branch_element": "木",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "乙"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "乙",
+        "ten_god": "偏印"
+      }
+    ],
+    "nayin": "炉中火",
+    "self_sitting_life_stage": "病",
+    "xun": "甲子旬",
+    "void": "戌亥",
+    "traditional_stem_summary": "阴火：传统类象常取灯烛、星火，偏细腻专注；不可机械套性格。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ding-mao"
+  },
+  {
+    "seq": 5,
+    "pillar": "戊辰",
+    "stem": "戊",
+    "branch": "辰",
+    "stem_element": "土",
+    "stem_yinyang": "阳",
+    "branch_element": "土",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "戊",
+      "乙",
+      "癸"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "戊",
+        "ten_god": "比肩"
+      },
+      {
+        "stem": "乙",
+        "ten_god": "正官"
+      },
+      {
+        "stem": "癸",
+        "ten_god": "正财"
+      }
+    ],
+    "nayin": "大林木",
+    "self_sitting_life_stage": "冠带",
+    "xun": "甲子旬",
+    "void": "戌亥",
+    "traditional_stem_summary": "阳土：传统类象常取山岳厚土，偏稳重承载；需辨燥湿与旺衰。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/wu-chen"
+  },
+  {
+    "seq": 6,
+    "pillar": "己巳",
+    "stem": "己",
+    "branch": "巳",
+    "stem_element": "土",
+    "stem_yinyang": "阴",
+    "branch_element": "火",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "丙",
+      "庚",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "丙",
+        "ten_god": "正印"
+      },
+      {
+        "stem": "庚",
+        "ten_god": "伤官"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "劫财"
+      }
+    ],
+    "nayin": "大林木",
+    "self_sitting_life_stage": "帝旺",
+    "xun": "甲子旬",
+    "void": "戌亥",
+    "traditional_stem_summary": "阴土：传统类象常取田园湿土，偏包容培育；需辨寒暖燥湿。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ji-si"
+  },
+  {
+    "seq": 7,
+    "pillar": "庚午",
+    "stem": "庚",
+    "branch": "午",
+    "stem_element": "金",
+    "stem_yinyang": "阳",
+    "branch_element": "火",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "丁",
+      "己"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "丁",
+        "ten_god": "正官"
+      },
+      {
+        "stem": "己",
+        "ten_god": "正印"
+      }
+    ],
+    "nayin": "路旁土",
+    "self_sitting_life_stage": "沐浴",
+    "xun": "甲子旬",
+    "void": "戌亥",
+    "traditional_stem_summary": "阳金：传统类象常取矿铁刀斧，偏刚健果断；喜忌取决于制化。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/geng-wu"
+  },
+  {
+    "seq": 8,
+    "pillar": "辛未",
+    "stem": "辛",
+    "branch": "未",
+    "stem_element": "金",
+    "stem_yinyang": "阴",
+    "branch_element": "土",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "己",
+      "丁",
+      "乙"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "己",
+        "ten_god": "偏印"
+      },
+      {
+        "stem": "丁",
+        "ten_god": "七杀"
+      },
+      {
+        "stem": "乙",
+        "ten_god": "偏财"
+      }
+    ],
+    "nayin": "路旁土",
+    "self_sitting_life_stage": "衰",
+    "xun": "甲子旬",
+    "void": "戌亥",
+    "traditional_stem_summary": "阴金：传统类象常取珠玉精金，偏精细审美；需结合火炼水洗等传统类象。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/xin-wei"
+  },
+  {
+    "seq": 9,
+    "pillar": "壬申",
+    "stem": "壬",
+    "branch": "申",
+    "stem_element": "水",
+    "stem_yinyang": "阳",
+    "branch_element": "金",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "庚",
+      "壬",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "庚",
+        "ten_god": "偏印"
+      },
+      {
+        "stem": "壬",
+        "ten_god": "比肩"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "七杀"
+      }
+    ],
+    "nayin": "剑锋金",
+    "self_sitting_life_stage": "长生",
+    "xun": "甲子旬",
+    "void": "戌亥",
+    "traditional_stem_summary": "阳水：传统类象常取江海大水，偏流动开阔；需结合堤防、源流与旺衰。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ren-shen"
+  },
+  {
+    "seq": 10,
+    "pillar": "癸酉",
+    "stem": "癸",
+    "branch": "酉",
+    "stem_element": "水",
+    "stem_yinyang": "阴",
+    "branch_element": "金",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "辛"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "辛",
+        "ten_god": "偏印"
+      }
+    ],
+    "nayin": "剑锋金",
+    "self_sitting_life_stage": "病",
+    "xun": "甲子旬",
+    "void": "戌亥",
+    "traditional_stem_summary": "阴水：传统类象常取雨露泉水，偏细密渗透；需结合寒暖与根气。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/gui-you"
+  },
+  {
+    "seq": 11,
+    "pillar": "甲戌",
+    "stem": "甲",
+    "branch": "戌",
+    "stem_element": "木",
+    "stem_yinyang": "阳",
+    "branch_element": "土",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "戊",
+      "辛",
+      "丁"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "戊",
+        "ten_god": "偏财"
+      },
+      {
+        "stem": "辛",
+        "ten_god": "正官"
+      },
+      {
+        "stem": "丁",
+        "ten_god": "伤官"
+      }
+    ],
+    "nayin": "山头火",
+    "self_sitting_life_stage": "养",
+    "xun": "甲戌旬",
+    "void": "申酉",
+    "traditional_stem_summary": "阳木：传统类象常取乔木、栋梁，重生发与直达；不宜脱离月令、根气和十神单独下结论。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/jia-xu"
+  },
+  {
+    "seq": 12,
+    "pillar": "乙亥",
+    "stem": "乙",
+    "branch": "亥",
+    "stem_element": "木",
+    "stem_yinyang": "阴",
+    "branch_element": "水",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "壬",
+      "甲"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "壬",
+        "ten_god": "正印"
+      },
+      {
+        "stem": "甲",
+        "ten_god": "劫财"
+      }
+    ],
+    "nayin": "山头火",
+    "self_sitting_life_stage": "死",
+    "xun": "甲戌旬",
+    "void": "申酉",
+    "traditional_stem_summary": "阴木：传统类象常取花草藤萝，偏柔韧、适应；仍需结合月令与全局。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/yi-hai"
+  },
+  {
+    "seq": 13,
+    "pillar": "丙子",
+    "stem": "丙",
+    "branch": "子",
+    "stem_element": "火",
+    "stem_yinyang": "阳",
+    "branch_element": "水",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "癸"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "癸",
+        "ten_god": "正官"
+      }
+    ],
+    "nayin": "涧下水",
+    "self_sitting_life_stage": "胎",
+    "xun": "甲戌旬",
+    "void": "申酉",
+    "traditional_stem_summary": "阳火：传统类象常取太阳、光明，偏外显；强弱与调候会改变表现。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/bing-zi"
+  },
+  {
+    "seq": 14,
+    "pillar": "丁丑",
+    "stem": "丁",
+    "branch": "丑",
+    "stem_element": "火",
+    "stem_yinyang": "阴",
+    "branch_element": "土",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "己",
+      "癸",
+      "辛"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "己",
+        "ten_god": "食神"
+      },
+      {
+        "stem": "癸",
+        "ten_god": "七杀"
+      },
+      {
+        "stem": "辛",
+        "ten_god": "偏财"
+      }
+    ],
+    "nayin": "涧下水",
+    "self_sitting_life_stage": "墓",
+    "xun": "甲戌旬",
+    "void": "申酉",
+    "traditional_stem_summary": "阴火：传统类象常取灯烛、星火，偏细腻专注；不可机械套性格。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ding-chou"
+  },
+  {
+    "seq": 15,
+    "pillar": "戊寅",
+    "stem": "戊",
+    "branch": "寅",
+    "stem_element": "土",
+    "stem_yinyang": "阳",
+    "branch_element": "木",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "甲",
+      "丙",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "甲",
+        "ten_god": "七杀"
+      },
+      {
+        "stem": "丙",
+        "ten_god": "偏印"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "比肩"
+      }
+    ],
+    "nayin": "城头土",
+    "self_sitting_life_stage": "长生",
+    "xun": "甲戌旬",
+    "void": "申酉",
+    "traditional_stem_summary": "阳土：传统类象常取山岳厚土，偏稳重承载；需辨燥湿与旺衰。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/wu-yin"
+  },
+  {
+    "seq": 16,
+    "pillar": "己卯",
+    "stem": "己",
+    "branch": "卯",
+    "stem_element": "土",
+    "stem_yinyang": "阴",
+    "branch_element": "木",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "乙"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "乙",
+        "ten_god": "七杀"
+      }
+    ],
+    "nayin": "城头土",
+    "self_sitting_life_stage": "病",
+    "xun": "甲戌旬",
+    "void": "申酉",
+    "traditional_stem_summary": "阴土：传统类象常取田园湿土，偏包容培育；需辨寒暖燥湿。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ji-mao"
+  },
+  {
+    "seq": 17,
+    "pillar": "庚辰",
+    "stem": "庚",
+    "branch": "辰",
+    "stem_element": "金",
+    "stem_yinyang": "阳",
+    "branch_element": "土",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "戊",
+      "乙",
+      "癸"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "戊",
+        "ten_god": "偏印"
+      },
+      {
+        "stem": "乙",
+        "ten_god": "正财"
+      },
+      {
+        "stem": "癸",
+        "ten_god": "伤官"
+      }
+    ],
+    "nayin": "白蜡金",
+    "self_sitting_life_stage": "养",
+    "xun": "甲戌旬",
+    "void": "申酉",
+    "traditional_stem_summary": "阳金：传统类象常取矿铁刀斧，偏刚健果断；喜忌取决于制化。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/geng-chen"
+  },
+  {
+    "seq": 18,
+    "pillar": "辛巳",
+    "stem": "辛",
+    "branch": "巳",
+    "stem_element": "金",
+    "stem_yinyang": "阴",
+    "branch_element": "火",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "丙",
+      "庚",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "丙",
+        "ten_god": "正官"
+      },
+      {
+        "stem": "庚",
+        "ten_god": "劫财"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "正印"
+      }
+    ],
+    "nayin": "白蜡金",
+    "self_sitting_life_stage": "死",
+    "xun": "甲戌旬",
+    "void": "申酉",
+    "traditional_stem_summary": "阴金：传统类象常取珠玉精金，偏精细审美；需结合火炼水洗等传统类象。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/xin-si"
+  },
+  {
+    "seq": 19,
+    "pillar": "壬午",
+    "stem": "壬",
+    "branch": "午",
+    "stem_element": "水",
+    "stem_yinyang": "阳",
+    "branch_element": "火",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "丁",
+      "己"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "丁",
+        "ten_god": "正财"
+      },
+      {
+        "stem": "己",
+        "ten_god": "正官"
+      }
+    ],
+    "nayin": "杨柳木",
+    "self_sitting_life_stage": "胎",
+    "xun": "甲戌旬",
+    "void": "申酉",
+    "traditional_stem_summary": "阳水：传统类象常取江海大水，偏流动开阔；需结合堤防、源流与旺衰。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ren-wu"
+  },
+  {
+    "seq": 20,
+    "pillar": "癸未",
+    "stem": "癸",
+    "branch": "未",
+    "stem_element": "水",
+    "stem_yinyang": "阴",
+    "branch_element": "土",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "己",
+      "丁",
+      "乙"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "己",
+        "ten_god": "七杀"
+      },
+      {
+        "stem": "丁",
+        "ten_god": "偏财"
+      },
+      {
+        "stem": "乙",
+        "ten_god": "食神"
+      }
+    ],
+    "nayin": "杨柳木",
+    "self_sitting_life_stage": "墓",
+    "xun": "甲戌旬",
+    "void": "申酉",
+    "traditional_stem_summary": "阴水：传统类象常取雨露泉水，偏细密渗透；需结合寒暖与根气。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/gui-wei"
+  },
+  {
+    "seq": 21,
+    "pillar": "甲申",
+    "stem": "甲",
+    "branch": "申",
+    "stem_element": "木",
+    "stem_yinyang": "阳",
+    "branch_element": "金",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "庚",
+      "壬",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "庚",
+        "ten_god": "七杀"
+      },
+      {
+        "stem": "壬",
+        "ten_god": "偏印"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "偏财"
+      }
+    ],
+    "nayin": "泉中水",
+    "self_sitting_life_stage": "绝",
+    "xun": "甲申旬",
+    "void": "午未",
+    "traditional_stem_summary": "阳木：传统类象常取乔木、栋梁，重生发与直达；不宜脱离月令、根气和十神单独下结论。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/jia-shen"
+  },
+  {
+    "seq": 22,
+    "pillar": "乙酉",
+    "stem": "乙",
+    "branch": "酉",
+    "stem_element": "木",
+    "stem_yinyang": "阴",
+    "branch_element": "金",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "辛"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "辛",
+        "ten_god": "七杀"
+      }
+    ],
+    "nayin": "泉中水",
+    "self_sitting_life_stage": "绝",
+    "xun": "甲申旬",
+    "void": "午未",
+    "traditional_stem_summary": "阴木：传统类象常取花草藤萝，偏柔韧、适应；仍需结合月令与全局。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/yi-you"
+  },
+  {
+    "seq": 23,
+    "pillar": "丙戌",
+    "stem": "丙",
+    "branch": "戌",
+    "stem_element": "火",
+    "stem_yinyang": "阳",
+    "branch_element": "土",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "戊",
+      "辛",
+      "丁"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "戊",
+        "ten_god": "食神"
+      },
+      {
+        "stem": "辛",
+        "ten_god": "正财"
+      },
+      {
+        "stem": "丁",
+        "ten_god": "劫财"
+      }
+    ],
+    "nayin": "屋上土",
+    "self_sitting_life_stage": "墓",
+    "xun": "甲申旬",
+    "void": "午未",
+    "traditional_stem_summary": "阳火：传统类象常取太阳、光明，偏外显；强弱与调候会改变表现。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/bing-xu"
+  },
+  {
+    "seq": 24,
+    "pillar": "丁亥",
+    "stem": "丁",
+    "branch": "亥",
+    "stem_element": "火",
+    "stem_yinyang": "阴",
+    "branch_element": "水",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "壬",
+      "甲"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "壬",
+        "ten_god": "正官"
+      },
+      {
+        "stem": "甲",
+        "ten_god": "正印"
+      }
+    ],
+    "nayin": "屋上土",
+    "self_sitting_life_stage": "胎",
+    "xun": "甲申旬",
+    "void": "午未",
+    "traditional_stem_summary": "阴火：传统类象常取灯烛、星火，偏细腻专注；不可机械套性格。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ding-hai"
+  },
+  {
+    "seq": 25,
+    "pillar": "戊子",
+    "stem": "戊",
+    "branch": "子",
+    "stem_element": "土",
+    "stem_yinyang": "阳",
+    "branch_element": "水",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "癸"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "癸",
+        "ten_god": "正财"
+      }
+    ],
+    "nayin": "霹雳火",
+    "self_sitting_life_stage": "胎",
+    "xun": "甲申旬",
+    "void": "午未",
+    "traditional_stem_summary": "阳土：传统类象常取山岳厚土，偏稳重承载；需辨燥湿与旺衰。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/wu-zi"
+  },
+  {
+    "seq": 26,
+    "pillar": "己丑",
+    "stem": "己",
+    "branch": "丑",
+    "stem_element": "土",
+    "stem_yinyang": "阴",
+    "branch_element": "土",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "己",
+      "癸",
+      "辛"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "己",
+        "ten_god": "比肩"
+      },
+      {
+        "stem": "癸",
+        "ten_god": "偏财"
+      },
+      {
+        "stem": "辛",
+        "ten_god": "食神"
+      }
+    ],
+    "nayin": "霹雳火",
+    "self_sitting_life_stage": "墓",
+    "xun": "甲申旬",
+    "void": "午未",
+    "traditional_stem_summary": "阴土：传统类象常取田园湿土，偏包容培育；需辨寒暖燥湿。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ji-chou"
+  },
+  {
+    "seq": 27,
+    "pillar": "庚寅",
+    "stem": "庚",
+    "branch": "寅",
+    "stem_element": "金",
+    "stem_yinyang": "阳",
+    "branch_element": "木",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "甲",
+      "丙",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "甲",
+        "ten_god": "偏财"
+      },
+      {
+        "stem": "丙",
+        "ten_god": "七杀"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "偏印"
+      }
+    ],
+    "nayin": "松柏木",
+    "self_sitting_life_stage": "绝",
+    "xun": "甲申旬",
+    "void": "午未",
+    "traditional_stem_summary": "阳金：传统类象常取矿铁刀斧，偏刚健果断；喜忌取决于制化。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/geng-yin"
+  },
+  {
+    "seq": 28,
+    "pillar": "辛卯",
+    "stem": "辛",
+    "branch": "卯",
+    "stem_element": "金",
+    "stem_yinyang": "阴",
+    "branch_element": "木",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "乙"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "乙",
+        "ten_god": "偏财"
+      }
+    ],
+    "nayin": "松柏木",
+    "self_sitting_life_stage": "绝",
+    "xun": "甲申旬",
+    "void": "午未",
+    "traditional_stem_summary": "阴金：传统类象常取珠玉精金，偏精细审美；需结合火炼水洗等传统类象。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/xin-mao"
+  },
+  {
+    "seq": 29,
+    "pillar": "壬辰",
+    "stem": "壬",
+    "branch": "辰",
+    "stem_element": "水",
+    "stem_yinyang": "阳",
+    "branch_element": "土",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "戊",
+      "乙",
+      "癸"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "戊",
+        "ten_god": "七杀"
+      },
+      {
+        "stem": "乙",
+        "ten_god": "伤官"
+      },
+      {
+        "stem": "癸",
+        "ten_god": "劫财"
+      }
+    ],
+    "nayin": "长流水",
+    "self_sitting_life_stage": "墓",
+    "xun": "甲申旬",
+    "void": "午未",
+    "traditional_stem_summary": "阳水：传统类象常取江海大水，偏流动开阔；需结合堤防、源流与旺衰。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ren-chen"
+  },
+  {
+    "seq": 30,
+    "pillar": "癸巳",
+    "stem": "癸",
+    "branch": "巳",
+    "stem_element": "水",
+    "stem_yinyang": "阴",
+    "branch_element": "火",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "丙",
+      "庚",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "丙",
+        "ten_god": "正财"
+      },
+      {
+        "stem": "庚",
+        "ten_god": "正印"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "正官"
+      }
+    ],
+    "nayin": "长流水",
+    "self_sitting_life_stage": "胎",
+    "xun": "甲申旬",
+    "void": "午未",
+    "traditional_stem_summary": "阴水：传统类象常取雨露泉水，偏细密渗透；需结合寒暖与根气。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/gui-si"
+  },
+  {
+    "seq": 31,
+    "pillar": "甲午",
+    "stem": "甲",
+    "branch": "午",
+    "stem_element": "木",
+    "stem_yinyang": "阳",
+    "branch_element": "火",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "丁",
+      "己"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "丁",
+        "ten_god": "伤官"
+      },
+      {
+        "stem": "己",
+        "ten_god": "正财"
+      }
+    ],
+    "nayin": "沙中金",
+    "self_sitting_life_stage": "死",
+    "xun": "甲午旬",
+    "void": "辰巳",
+    "traditional_stem_summary": "阳木：传统类象常取乔木、栋梁，重生发与直达；不宜脱离月令、根气和十神单独下结论。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/jia-wu"
+  },
+  {
+    "seq": 32,
+    "pillar": "乙未",
+    "stem": "乙",
+    "branch": "未",
+    "stem_element": "木",
+    "stem_yinyang": "阴",
+    "branch_element": "土",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "己",
+      "丁",
+      "乙"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "己",
+        "ten_god": "偏财"
+      },
+      {
+        "stem": "丁",
+        "ten_god": "食神"
+      },
+      {
+        "stem": "乙",
+        "ten_god": "比肩"
+      }
+    ],
+    "nayin": "沙中金",
+    "self_sitting_life_stage": "养",
+    "xun": "甲午旬",
+    "void": "辰巳",
+    "traditional_stem_summary": "阴木：传统类象常取花草藤萝，偏柔韧、适应；仍需结合月令与全局。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/yi-wei"
+  },
+  {
+    "seq": 33,
+    "pillar": "丙申",
+    "stem": "丙",
+    "branch": "申",
+    "stem_element": "火",
+    "stem_yinyang": "阳",
+    "branch_element": "金",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "庚",
+      "壬",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "庚",
+        "ten_god": "偏财"
+      },
+      {
+        "stem": "壬",
+        "ten_god": "七杀"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "食神"
+      }
+    ],
+    "nayin": "山下火",
+    "self_sitting_life_stage": "病",
+    "xun": "甲午旬",
+    "void": "辰巳",
+    "traditional_stem_summary": "阳火：传统类象常取太阳、光明，偏外显；强弱与调候会改变表现。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/bing-shen"
+  },
+  {
+    "seq": 34,
+    "pillar": "丁酉",
+    "stem": "丁",
+    "branch": "酉",
+    "stem_element": "火",
+    "stem_yinyang": "阴",
+    "branch_element": "金",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "辛"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "辛",
+        "ten_god": "偏财"
+      }
+    ],
+    "nayin": "山下火",
+    "self_sitting_life_stage": "长生",
+    "xun": "甲午旬",
+    "void": "辰巳",
+    "traditional_stem_summary": "阴火：传统类象常取灯烛、星火，偏细腻专注；不可机械套性格。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ding-you"
+  },
+  {
+    "seq": 35,
+    "pillar": "戊戌",
+    "stem": "戊",
+    "branch": "戌",
+    "stem_element": "土",
+    "stem_yinyang": "阳",
+    "branch_element": "土",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "戊",
+      "辛",
+      "丁"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "戊",
+        "ten_god": "比肩"
+      },
+      {
+        "stem": "辛",
+        "ten_god": "伤官"
+      },
+      {
+        "stem": "丁",
+        "ten_god": "正印"
+      }
+    ],
+    "nayin": "平地木",
+    "self_sitting_life_stage": "墓",
+    "xun": "甲午旬",
+    "void": "辰巳",
+    "traditional_stem_summary": "阳土：传统类象常取山岳厚土，偏稳重承载；需辨燥湿与旺衰。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/wu-xu"
+  },
+  {
+    "seq": 36,
+    "pillar": "己亥",
+    "stem": "己",
+    "branch": "亥",
+    "stem_element": "土",
+    "stem_yinyang": "阴",
+    "branch_element": "水",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "壬",
+      "甲"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "壬",
+        "ten_god": "正财"
+      },
+      {
+        "stem": "甲",
+        "ten_god": "正官"
+      }
+    ],
+    "nayin": "平地木",
+    "self_sitting_life_stage": "胎",
+    "xun": "甲午旬",
+    "void": "辰巳",
+    "traditional_stem_summary": "阴土：传统类象常取田园湿土，偏包容培育；需辨寒暖燥湿。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ji-hai"
+  },
+  {
+    "seq": 37,
+    "pillar": "庚子",
+    "stem": "庚",
+    "branch": "子",
+    "stem_element": "金",
+    "stem_yinyang": "阳",
+    "branch_element": "水",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "癸"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "癸",
+        "ten_god": "伤官"
+      }
+    ],
+    "nayin": "壁上土",
+    "self_sitting_life_stage": "死",
+    "xun": "甲午旬",
+    "void": "辰巳",
+    "traditional_stem_summary": "阳金：传统类象常取矿铁刀斧，偏刚健果断；喜忌取决于制化。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/geng-zi"
+  },
+  {
+    "seq": 38,
+    "pillar": "辛丑",
+    "stem": "辛",
+    "branch": "丑",
+    "stem_element": "金",
+    "stem_yinyang": "阴",
+    "branch_element": "土",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "己",
+      "癸",
+      "辛"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "己",
+        "ten_god": "偏印"
+      },
+      {
+        "stem": "癸",
+        "ten_god": "食神"
+      },
+      {
+        "stem": "辛",
+        "ten_god": "比肩"
+      }
+    ],
+    "nayin": "壁上土",
+    "self_sitting_life_stage": "养",
+    "xun": "甲午旬",
+    "void": "辰巳",
+    "traditional_stem_summary": "阴金：传统类象常取珠玉精金，偏精细审美；需结合火炼水洗等传统类象。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/xin-chou"
+  },
+  {
+    "seq": 39,
+    "pillar": "壬寅",
+    "stem": "壬",
+    "branch": "寅",
+    "stem_element": "水",
+    "stem_yinyang": "阳",
+    "branch_element": "木",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "甲",
+      "丙",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "甲",
+        "ten_god": "食神"
+      },
+      {
+        "stem": "丙",
+        "ten_god": "偏财"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "七杀"
+      }
+    ],
+    "nayin": "金箔金",
+    "self_sitting_life_stage": "病",
+    "xun": "甲午旬",
+    "void": "辰巳",
+    "traditional_stem_summary": "阳水：传统类象常取江海大水，偏流动开阔；需结合堤防、源流与旺衰。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ren-yin"
+  },
+  {
+    "seq": 40,
+    "pillar": "癸卯",
+    "stem": "癸",
+    "branch": "卯",
+    "stem_element": "水",
+    "stem_yinyang": "阴",
+    "branch_element": "木",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "乙"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "乙",
+        "ten_god": "食神"
+      }
+    ],
+    "nayin": "金箔金",
+    "self_sitting_life_stage": "长生",
+    "xun": "甲午旬",
+    "void": "辰巳",
+    "traditional_stem_summary": "阴水：传统类象常取雨露泉水，偏细密渗透；需结合寒暖与根气。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/gui-mao"
+  },
+  {
+    "seq": 41,
+    "pillar": "甲辰",
+    "stem": "甲",
+    "branch": "辰",
+    "stem_element": "木",
+    "stem_yinyang": "阳",
+    "branch_element": "土",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "戊",
+      "乙",
+      "癸"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "戊",
+        "ten_god": "偏财"
+      },
+      {
+        "stem": "乙",
+        "ten_god": "劫财"
+      },
+      {
+        "stem": "癸",
+        "ten_god": "正印"
+      }
+    ],
+    "nayin": "覆灯火",
+    "self_sitting_life_stage": "衰",
+    "xun": "甲辰旬",
+    "void": "寅卯",
+    "traditional_stem_summary": "阳木：传统类象常取乔木、栋梁，重生发与直达；不宜脱离月令、根气和十神单独下结论。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/jia-chen"
+  },
+  {
+    "seq": 42,
+    "pillar": "乙巳",
+    "stem": "乙",
+    "branch": "巳",
+    "stem_element": "木",
+    "stem_yinyang": "阴",
+    "branch_element": "火",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "丙",
+      "庚",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "丙",
+        "ten_god": "伤官"
+      },
+      {
+        "stem": "庚",
+        "ten_god": "正官"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "正财"
+      }
+    ],
+    "nayin": "覆灯火",
+    "self_sitting_life_stage": "沐浴",
+    "xun": "甲辰旬",
+    "void": "寅卯",
+    "traditional_stem_summary": "阴木：传统类象常取花草藤萝，偏柔韧、适应；仍需结合月令与全局。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/yi-si"
+  },
+  {
+    "seq": 43,
+    "pillar": "丙午",
+    "stem": "丙",
+    "branch": "午",
+    "stem_element": "火",
+    "stem_yinyang": "阳",
+    "branch_element": "火",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "丁",
+      "己"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "丁",
+        "ten_god": "劫财"
+      },
+      {
+        "stem": "己",
+        "ten_god": "伤官"
+      }
+    ],
+    "nayin": "天河水",
+    "self_sitting_life_stage": "帝旺",
+    "xun": "甲辰旬",
+    "void": "寅卯",
+    "traditional_stem_summary": "阳火：传统类象常取太阳、光明，偏外显；强弱与调候会改变表现。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/bing-wu"
+  },
+  {
+    "seq": 44,
+    "pillar": "丁未",
+    "stem": "丁",
+    "branch": "未",
+    "stem_element": "火",
+    "stem_yinyang": "阴",
+    "branch_element": "土",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "己",
+      "丁",
+      "乙"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "己",
+        "ten_god": "食神"
+      },
+      {
+        "stem": "丁",
+        "ten_god": "比肩"
+      },
+      {
+        "stem": "乙",
+        "ten_god": "偏印"
+      }
+    ],
+    "nayin": "天河水",
+    "self_sitting_life_stage": "冠带",
+    "xun": "甲辰旬",
+    "void": "寅卯",
+    "traditional_stem_summary": "阴火：传统类象常取灯烛、星火，偏细腻专注；不可机械套性格。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ding-wei"
+  },
+  {
+    "seq": 45,
+    "pillar": "戊申",
+    "stem": "戊",
+    "branch": "申",
+    "stem_element": "土",
+    "stem_yinyang": "阳",
+    "branch_element": "金",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "庚",
+      "壬",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "庚",
+        "ten_god": "食神"
+      },
+      {
+        "stem": "壬",
+        "ten_god": "偏财"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "比肩"
+      }
+    ],
+    "nayin": "大驿土",
+    "self_sitting_life_stage": "病",
+    "xun": "甲辰旬",
+    "void": "寅卯",
+    "traditional_stem_summary": "阳土：传统类象常取山岳厚土，偏稳重承载；需辨燥湿与旺衰。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/wu-shen"
+  },
+  {
+    "seq": 46,
+    "pillar": "己酉",
+    "stem": "己",
+    "branch": "酉",
+    "stem_element": "土",
+    "stem_yinyang": "阴",
+    "branch_element": "金",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "辛"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "辛",
+        "ten_god": "食神"
+      }
+    ],
+    "nayin": "大驿土",
+    "self_sitting_life_stage": "长生",
+    "xun": "甲辰旬",
+    "void": "寅卯",
+    "traditional_stem_summary": "阴土：传统类象常取田园湿土，偏包容培育；需辨寒暖燥湿。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ji-you"
+  },
+  {
+    "seq": 47,
+    "pillar": "庚戌",
+    "stem": "庚",
+    "branch": "戌",
+    "stem_element": "金",
+    "stem_yinyang": "阳",
+    "branch_element": "土",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "戊",
+      "辛",
+      "丁"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "戊",
+        "ten_god": "偏印"
+      },
+      {
+        "stem": "辛",
+        "ten_god": "劫财"
+      },
+      {
+        "stem": "丁",
+        "ten_god": "正官"
+      }
+    ],
+    "nayin": "钗钏金",
+    "self_sitting_life_stage": "衰",
+    "xun": "甲辰旬",
+    "void": "寅卯",
+    "traditional_stem_summary": "阳金：传统类象常取矿铁刀斧，偏刚健果断；喜忌取决于制化。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/geng-xu"
+  },
+  {
+    "seq": 48,
+    "pillar": "辛亥",
+    "stem": "辛",
+    "branch": "亥",
+    "stem_element": "金",
+    "stem_yinyang": "阴",
+    "branch_element": "水",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "壬",
+      "甲"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "壬",
+        "ten_god": "伤官"
+      },
+      {
+        "stem": "甲",
+        "ten_god": "正财"
+      }
+    ],
+    "nayin": "钗钏金",
+    "self_sitting_life_stage": "沐浴",
+    "xun": "甲辰旬",
+    "void": "寅卯",
+    "traditional_stem_summary": "阴金：传统类象常取珠玉精金，偏精细审美；需结合火炼水洗等传统类象。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/xin-hai"
+  },
+  {
+    "seq": 49,
+    "pillar": "壬子",
+    "stem": "壬",
+    "branch": "子",
+    "stem_element": "水",
+    "stem_yinyang": "阳",
+    "branch_element": "水",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "癸"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "癸",
+        "ten_god": "劫财"
+      }
+    ],
+    "nayin": "桑柘木",
+    "self_sitting_life_stage": "帝旺",
+    "xun": "甲辰旬",
+    "void": "寅卯",
+    "traditional_stem_summary": "阳水：传统类象常取江海大水，偏流动开阔；需结合堤防、源流与旺衰。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ren-zi"
+  },
+  {
+    "seq": 50,
+    "pillar": "癸丑",
+    "stem": "癸",
+    "branch": "丑",
+    "stem_element": "水",
+    "stem_yinyang": "阴",
+    "branch_element": "土",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "己",
+      "癸",
+      "辛"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "己",
+        "ten_god": "七杀"
+      },
+      {
+        "stem": "癸",
+        "ten_god": "比肩"
+      },
+      {
+        "stem": "辛",
+        "ten_god": "偏印"
+      }
+    ],
+    "nayin": "桑柘木",
+    "self_sitting_life_stage": "冠带",
+    "xun": "甲辰旬",
+    "void": "寅卯",
+    "traditional_stem_summary": "阴水：传统类象常取雨露泉水，偏细密渗透；需结合寒暖与根气。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/gui-chou"
+  },
+  {
+    "seq": 51,
+    "pillar": "甲寅",
+    "stem": "甲",
+    "branch": "寅",
+    "stem_element": "木",
+    "stem_yinyang": "阳",
+    "branch_element": "木",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "甲",
+      "丙",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "甲",
+        "ten_god": "比肩"
+      },
+      {
+        "stem": "丙",
+        "ten_god": "食神"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "偏财"
+      }
+    ],
+    "nayin": "大溪水",
+    "self_sitting_life_stage": "临官",
+    "xun": "甲寅旬",
+    "void": "子丑",
+    "traditional_stem_summary": "阳木：传统类象常取乔木、栋梁，重生发与直达；不宜脱离月令、根气和十神单独下结论。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/jia-yin"
+  },
+  {
+    "seq": 52,
+    "pillar": "乙卯",
+    "stem": "乙",
+    "branch": "卯",
+    "stem_element": "木",
+    "stem_yinyang": "阴",
+    "branch_element": "木",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "乙"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "乙",
+        "ten_god": "比肩"
+      }
+    ],
+    "nayin": "大溪水",
+    "self_sitting_life_stage": "临官",
+    "xun": "甲寅旬",
+    "void": "子丑",
+    "traditional_stem_summary": "阴木：传统类象常取花草藤萝，偏柔韧、适应；仍需结合月令与全局。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/yi-mao"
+  },
+  {
+    "seq": 53,
+    "pillar": "丙辰",
+    "stem": "丙",
+    "branch": "辰",
+    "stem_element": "火",
+    "stem_yinyang": "阳",
+    "branch_element": "土",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "戊",
+      "乙",
+      "癸"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "戊",
+        "ten_god": "食神"
+      },
+      {
+        "stem": "乙",
+        "ten_god": "正印"
+      },
+      {
+        "stem": "癸",
+        "ten_god": "正官"
+      }
+    ],
+    "nayin": "沙中土",
+    "self_sitting_life_stage": "冠带",
+    "xun": "甲寅旬",
+    "void": "子丑",
+    "traditional_stem_summary": "阳火：传统类象常取太阳、光明，偏外显；强弱与调候会改变表现。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/bing-chen"
+  },
+  {
+    "seq": 54,
+    "pillar": "丁巳",
+    "stem": "丁",
+    "branch": "巳",
+    "stem_element": "火",
+    "stem_yinyang": "阴",
+    "branch_element": "火",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "丙",
+      "庚",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "丙",
+        "ten_god": "劫财"
+      },
+      {
+        "stem": "庚",
+        "ten_god": "正财"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "伤官"
+      }
+    ],
+    "nayin": "沙中土",
+    "self_sitting_life_stage": "帝旺",
+    "xun": "甲寅旬",
+    "void": "子丑",
+    "traditional_stem_summary": "阴火：传统类象常取灯烛、星火，偏细腻专注；不可机械套性格。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ding-si"
+  },
+  {
+    "seq": 55,
+    "pillar": "戊午",
+    "stem": "戊",
+    "branch": "午",
+    "stem_element": "土",
+    "stem_yinyang": "阳",
+    "branch_element": "火",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "丁",
+      "己"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "丁",
+        "ten_god": "正印"
+      },
+      {
+        "stem": "己",
+        "ten_god": "劫财"
+      }
+    ],
+    "nayin": "天上火",
+    "self_sitting_life_stage": "帝旺",
+    "xun": "甲寅旬",
+    "void": "子丑",
+    "traditional_stem_summary": "阳土：传统类象常取山岳厚土，偏稳重承载；需辨燥湿与旺衰。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/wu-wu"
+  },
+  {
+    "seq": 56,
+    "pillar": "己未",
+    "stem": "己",
+    "branch": "未",
+    "stem_element": "土",
+    "stem_yinyang": "阴",
+    "branch_element": "土",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "己",
+      "丁",
+      "乙"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "己",
+        "ten_god": "比肩"
+      },
+      {
+        "stem": "丁",
+        "ten_god": "偏印"
+      },
+      {
+        "stem": "乙",
+        "ten_god": "七杀"
+      }
+    ],
+    "nayin": "天上火",
+    "self_sitting_life_stage": "冠带",
+    "xun": "甲寅旬",
+    "void": "子丑",
+    "traditional_stem_summary": "阴土：传统类象常取田园湿土，偏包容培育；需辨寒暖燥湿。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ji-wei"
+  },
+  {
+    "seq": 57,
+    "pillar": "庚申",
+    "stem": "庚",
+    "branch": "申",
+    "stem_element": "金",
+    "stem_yinyang": "阳",
+    "branch_element": "金",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "庚",
+      "壬",
+      "戊"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "庚",
+        "ten_god": "比肩"
+      },
+      {
+        "stem": "壬",
+        "ten_god": "食神"
+      },
+      {
+        "stem": "戊",
+        "ten_god": "偏印"
+      }
+    ],
+    "nayin": "石榴木",
+    "self_sitting_life_stage": "临官",
+    "xun": "甲寅旬",
+    "void": "子丑",
+    "traditional_stem_summary": "阳金：传统类象常取矿铁刀斧，偏刚健果断；喜忌取决于制化。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/geng-shen"
+  },
+  {
+    "seq": 58,
+    "pillar": "辛酉",
+    "stem": "辛",
+    "branch": "酉",
+    "stem_element": "金",
+    "stem_yinyang": "阴",
+    "branch_element": "金",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "辛"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "辛",
+        "ten_god": "比肩"
+      }
+    ],
+    "nayin": "石榴木",
+    "self_sitting_life_stage": "临官",
+    "xun": "甲寅旬",
+    "void": "子丑",
+    "traditional_stem_summary": "阴金：传统类象常取珠玉精金，偏精细审美；需结合火炼水洗等传统类象。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/xin-you"
+  },
+  {
+    "seq": 59,
+    "pillar": "壬戌",
+    "stem": "壬",
+    "branch": "戌",
+    "stem_element": "水",
+    "stem_yinyang": "阳",
+    "branch_element": "土",
+    "branch_yinyang": "阳",
+    "hidden_stems": [
+      "戊",
+      "辛",
+      "丁"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "戊",
+        "ten_god": "七杀"
+      },
+      {
+        "stem": "辛",
+        "ten_god": "正印"
+      },
+      {
+        "stem": "丁",
+        "ten_god": "正财"
+      }
+    ],
+    "nayin": "大海水",
+    "self_sitting_life_stage": "冠带",
+    "xun": "甲寅旬",
+    "void": "子丑",
+    "traditional_stem_summary": "阳水：传统类象常取江海大水，偏流动开阔；需结合堤防、源流与旺衰。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/ren-xu"
+  },
+  {
+    "seq": 60,
+    "pillar": "癸亥",
+    "stem": "癸",
+    "branch": "亥",
+    "stem_element": "水",
+    "stem_yinyang": "阴",
+    "branch_element": "水",
+    "branch_yinyang": "阴",
+    "hidden_stems": [
+      "壬",
+      "甲"
+    ],
+    "hidden_ten_gods": [
+      {
+        "stem": "壬",
+        "ten_god": "劫财"
+      },
+      {
+        "stem": "甲",
+        "ten_god": "伤官"
+      }
+    ],
+    "nayin": "大海水",
+    "self_sitting_life_stage": "帝旺",
+    "xun": "甲寅旬",
+    "void": "子丑",
+    "traditional_stem_summary": "阴水：传统类象常取雨露泉水，偏细密渗透；需结合寒暖与根气。",
+    "modern_reference_url": "https://www.deeporacle.ai/bazi/tools/rizhu/gui-hai"
+  }
+]
