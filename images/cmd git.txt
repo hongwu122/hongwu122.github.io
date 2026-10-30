@@ -52,6 +52,6 @@ git push hongwu122.github.io main
 
 
 注意不要开VPN！！！校园网也有可能登不了github 会导致网络错误
-
+有时候电脑的宽带也是网络错误，可以切换手机热点。
 
 
