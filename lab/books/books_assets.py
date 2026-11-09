@@ -33,6 +33,16 @@ def store_asset(body):
         elif raw.startswith((b'GIF87a',b'GIF89a')):ext='.gif'
         elif raw[:4]==b'RIFF' and raw[8:12]==b'WEBP':ext='.webp'
         else:raise ValueError('链接未返回有效的 PNG、JPG、GIF 或 WebP 封面')
-    target=ROOT/folder/(hashlib.sha256(raw).hexdigest()[:24]+ext)
+    name=hashlib.sha256(raw).hexdigest()[:24]+ext
+    if kind=='pdf':
+        stem=Path(str(body.get('filename') or '图书').replace('\\','/')).name
+        stem=re.sub(r'[<>:"/\\|?*\x00-\x1f]','_',Path(stem).stem).strip(' .')[:140] or '图书'
+        if stem.upper() in {'CON','PRN','AUX','NUL',*(f'COM{i}' for i in range(1,10)),*(f'LPT{i}' for i in range(1,10))}:stem='图书_'+stem
+        name=stem+ext
+        candidate=ROOT/folder/name
+        n=2
+        while candidate.exists() and candidate.read_bytes()!=raw:
+            name=f'{stem} ({n}){ext}';candidate=ROOT/folder/name;n+=1
+    target=ROOT/folder/name
     target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(raw)
     return {'ok':True,'path':target.relative_to(ROOT).as_posix()}

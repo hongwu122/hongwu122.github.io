@@ -1,6 +1,19 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
+<script id="inline-browser-cache">
+(()=>{if(window.hwInlineCache)return;window.hwInlineCache=true;
+const native=window.fetch.bind(window),jobs=new Map(),cacheName='hongwu-inline-json-v2';
+if('serviceWorker'in navigator)navigator.serviceWorker.getRegistrations().then(rs=>rs.filter(r=>new URL(r.scope).pathname===new URL('/lab/',location.href).pathname).forEach(r=>r.unregister())).catch(()=>{});
+if('caches'in window)caches.delete('static-preview-v1').catch(()=>{});
+window.fetch=async function(input,opt={}){let u;try{u=new URL(input,location.href)}catch{return native(input,opt)}
+if(typeof input!=='string'||u.origin!==location.origin||! /\.(json|geojson|csv)$/.test(u.pathname)||/\/(api|__local|__travel|saves)\//.test(u.pathname)||(opt.method&&opt.method!=='GET')||window.HongwuMaintenance?.active||['localhost','127.0.0.1'].includes(location.hostname))return native(input,opt);
+for(const k of ['v','ts','_'])if(/^\d{12,}$/.test(u.searchParams.get(k)||''))u.searchParams.delete(k);
+const key=u.href;if(jobs.has(key))return(await jobs.get(key)).clone();
+const job=(async()=>{let c,old;try{c=await caches.open(cacheName);old=await c.match(key);if(old&&Date.now()-Number(old.headers.get('x-hw-saved'))<300000)return old}catch(_){}
+try{const r=await native(key,{...opt,cache:'default'});if(r.ok&&c){try{const copy=r.clone(),h=new Headers(copy.headers);h.set('x-hw-saved',Date.now());await c.put(key,new Response(await copy.arrayBuffer(),{status:copy.status,headers:h}));const ks=await c.keys();for(const k of ks.slice(0,Math.max(0,ks.length-80)))await c.delete(k)}catch(_){}}return r}catch(e){if(old)return old;throw e}})();jobs.set(key,job);try{return(await job).clone()}finally{jobs.delete(key)}};
+})();
+</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="description" content="Hongwu AI Toolbox">
@@ -211,7 +224,7 @@ body .top-row .search-icon,body .search-wrap>.search-icon,body div.search>.searc
 body .side-close svg{width:22px!important;height:22px!important;transform:none!important}body .side-close{font-size:26px!important}
 body .brand-copy b{font-family:"LiSu","STLiti","Songti SC","STSong",serif!important;font-size:18px!important;font-weight:700!important;letter-spacing:.08em!important}
 
-</style></head>
+</style><style id="maintenance-colors-20261031">button.mode-local,button.mode.on,.hw-local button#maint,.hw-local button#editorModeToggle{color:#a65f67!important;border-color:#e8c9cd!important;background:linear-gradient(135deg,#fbefef,#fff7f5)!important}button.mode-online:not(:disabled){color:#4d7b62!important;border-color:#cfe1d5!important;background:#eff7f1!important}</style></head>
 <body>
 
 <aside class="sidebar" id="sidebar">
@@ -257,7 +270,8 @@ body .brand-copy b{font-family:"LiSu","STLiti","Songti SC","STSong",serif!import
   </div>
 
   <main class="content">
-    <section class="hero"><h1>智器百工</h1><div class="hero-en">HONGWU · AI TOOLBOX</div></section>
+    <section class="hero"><h1>智器百工</h1><div class="hero-en">HONGWU · AI TOOLBOX</div><p>Gather resources, craft tools, to benefit all under heaven. 备物致用，立成器以为天下利，莫大乎圣人。</p><p style="text-align: right;">——《周易・系辞上》</p>
+</p></section>
 
     <div class="filters">
       <div class="filter-group" id="regionFilters">

@@ -1136,7 +1136,9 @@
         "status": "人工整理",
         "reviewed_at": "2026-10-01",
         "basis": "PDF原文逐项核对"
-      }
+      },
+      "favorite": false,
+      "favorite_at": ""
     },
     {
       "id": "pdf-088cec307fca",
